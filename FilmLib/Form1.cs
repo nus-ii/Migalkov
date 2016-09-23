@@ -40,20 +40,15 @@ namespace FilmLib
             radioButton5.Checked = true;
         }
 
- 
+        //private void textBox1_TextChanged(object sender, EventArgs e)
+        //{
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-
-
+        //}
 
         private void SelecFilmByGenre(bool minusFilter=true,string minusFilterValue="мульт")
         {
-            Newtonsoft.Json.Linq.JArray temp=new Newtonsoft.Json.Linq.JArray();
-            Newtonsoft.Json.Linq.JObject tempObj = new Newtonsoft.Json.Linq.JObject();
+            JArray temp=new JArray();
+            JObject tempObj = new JObject();
             string genre="";
 
             foreach(var j in allFilm)
@@ -84,8 +79,6 @@ namespace FilmLib
             }
 
             Films = new JObject[temp.Count];
-
-
 
             int u = 0;
 
@@ -118,8 +111,7 @@ namespace FilmLib
                 this.label14.Text = cardObj.Value<string>("ImdbID");             
             }
             else
-            {
-                // throw new ArgumentOutOfRangeException("Фильма с таким номером нет в списке!");
+            {                
                 if (Films.Length > 0)
                 {
                     SetSelectedFilms(0);
@@ -127,9 +119,7 @@ namespace FilmLib
                 else
                 {
                     MessageBox.Show("Фильмов в данном жанре нет в коллекции.");
-                }
-
-               
+                }               
             }
         }
 
@@ -260,6 +250,7 @@ namespace FilmLib
             SelecFilmByGenre();
         }
 
+        #region Garbage
         private void Form1_Load(object sender, EventArgs e)
         {
 
@@ -318,6 +309,7 @@ namespace FilmLib
         private void label4_Click(object sender, EventArgs e)
         {
 
-        }
+        } 
+        #endregion
     }
 }

@@ -10,3 +10,15 @@ C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\Folder
 C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\FolderIDTest\obj\Debug\FolderIDTest.csprojResolveAssemblyReference.cache
 C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\FolderIDTest\obj\Debug\FolderIDTest.dll
 C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\FolderIDTest\obj\Debug\FolderIDTest.pdb
+C:\GitHub\Migalkov\FolderIDTest\bin\Debug\FolderIDTest.dll
+C:\GitHub\Migalkov\FolderIDTest\bin\Debug\FolderIDTest.pdb
+C:\GitHub\Migalkov\FolderIDTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\GitHub\Migalkov\FolderIDTest\bin\Debug\MigalkovDataModel.dll
+C:\GitHub\Migalkov\FolderIDTest\bin\Debug\MyWikiParser.dll
+C:\GitHub\Migalkov\FolderIDTest\bin\Debug\HtmlAgilityPack.dll
+C:\GitHub\Migalkov\FolderIDTest\bin\Debug\MigalkovDataModel.pdb
+C:\GitHub\Migalkov\FolderIDTest\bin\Debug\MyWikiParser.pdb
+C:\GitHub\Migalkov\FolderIDTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\GitHub\Migalkov\FolderIDTest\obj\Debug\FolderIDTest.csprojResolveAssemblyReference.cache
+C:\GitHub\Migalkov\FolderIDTest\obj\Debug\FolderIDTest.dll
+C:\GitHub\Migalkov\FolderIDTest\obj\Debug\FolderIDTest.pdb

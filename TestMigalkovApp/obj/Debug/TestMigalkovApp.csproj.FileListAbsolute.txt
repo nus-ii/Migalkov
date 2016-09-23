@@ -9,3 +9,14 @@ C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\TestMi
 C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\TestMigalkovApp\obj\Debug\TestMigalkovApp.csprojResolveAssemblyReference.cache
 C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\TestMigalkovApp\obj\Debug\TestMigalkovApp.exe
 C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\TestMigalkovApp\obj\Debug\TestMigalkovApp.pdb
+C:\GitHub\Migalkov\TestMigalkovApp\bin\Debug\TestMigalkovApp.exe.config
+C:\GitHub\Migalkov\TestMigalkovApp\bin\Debug\TestMigalkovApp.exe
+C:\GitHub\Migalkov\TestMigalkovApp\bin\Debug\TestMigalkovApp.pdb
+C:\GitHub\Migalkov\TestMigalkovApp\bin\Debug\HtmlAgilityPack.dll
+C:\GitHub\Migalkov\TestMigalkovApp\bin\Debug\MigalkovDataModel.dll
+C:\GitHub\Migalkov\TestMigalkovApp\bin\Debug\MyWikiParser.dll
+C:\GitHub\Migalkov\TestMigalkovApp\bin\Debug\MigalkovDataModel.pdb
+C:\GitHub\Migalkov\TestMigalkovApp\bin\Debug\MyWikiParser.pdb
+C:\GitHub\Migalkov\TestMigalkovApp\obj\Debug\TestMigalkovApp.csprojResolveAssemblyReference.cache
+C:\GitHub\Migalkov\TestMigalkovApp\obj\Debug\TestMigalkovApp.exe
+C:\GitHub\Migalkov\TestMigalkovApp\obj\Debug\TestMigalkovApp.pdb
