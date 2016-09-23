@@ -1,0 +1,10 @@
+C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\MigalkovDataModel\bin\Debug\MigalkovDataModel.dll
+C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\MigalkovDataModel\bin\Debug\MigalkovDataModel.pdb
+C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\MigalkovDataModel\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\MigalkovDataModel\bin\Debug\MyWikiParser.dll
+C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\MigalkovDataModel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\MigalkovDataModel\bin\Debug\MyWikiParser.pdb
+C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\MigalkovDataModel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\MigalkovDataModel\obj\Debug\MigalkovDataModel.csprojResolveAssemblyReference.cache
+C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\MigalkovDataModel\obj\Debug\MigalkovDataModel.dll
+C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\MigalkovDataModel\obj\Debug\MigalkovDataModel.pdb

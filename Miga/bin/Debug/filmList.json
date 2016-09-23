@@ -1,0 +1,2844 @@
+{
+  "data": [
+    {
+      "ThisCard": {
+        "Name": "Ральф",
+        "ImdbID": "1772341",
+        "ImdbURL": "http://www.imdb.com/title/tt1772341",
+        "Year": "",
+        "Genre": "Семейный, Кинокомедия, Мультфильм, Приключения",
+        "Director": "Рич Мур",
+        "WikiURL": "https://ru.wikipedia.org/wiki/Ральф_(мультфильм)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 43,
+        "Rome": "I",
+        "DiskFolder": "0A43"
+      },
+      "Id": "0a8e3b28-ad65-4213-bf6a-09e9ac233aef"
+    },
+    {
+      "ThisCard": {
+        "Name": "Большой куш",
+        "ImdbID": "0208092",
+        "ImdbURL": "http://www.imdb.com/title/tt0208092",
+        "Year": "2000",
+        "Genre": "чёрная комедия криминальный фильм",
+        "Director": "Гай Ричи",
+        "WikiURL": "https://ru.wikipedia.org/wiki/Большой_куш_(фильм,_2000)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 43,
+        "Rome": "II",
+        "DiskFolder": "0A43"
+      },
+      "Id": "6abc1d69-370c-434a-9a91-a442be422ac3"
+    },
+    {
+      "ThisCard": {
+        "Name": "Сквозь снег",
+        "ImdbID": "1706620",
+        "ImdbURL": "http://www.imdb.com/title/tt1706620",
+        "Year": "2013",
+        "Genre": "постапокалиптический триллер боевик драма",
+        "Director": "Пон Чжун Хо",
+        "WikiURL": "https://ru.wikipedia.org/wiki/Сквозь_снег"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 43,
+        "Rome": "III",
+        "DiskFolder": "0A43"
+      },
+      "Id": "1900f3ca-3725-4060-ab7c-9d401731ddfe"
+    },
+    {
+      "ThisCard": {
+        "Name": "Сигнал",
+        "ImdbID": "2910814",
+        "ImdbURL": "http://www.imdb.com/title/tt2910814",
+        "Year": "2014",
+        "Genre": "фантастика",
+        "Director": "Уильям Юбэнк",
+        "WikiURL": "https://ru.wikipedia.org/wiki/Сигнал_(фильм,_2014)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 43,
+        "Rome": "IV",
+        "DiskFolder": "0A43"
+      },
+      "Id": "0c417f4b-c3f7-4584-a586-7721e85f79e4"
+    },
+    {
+      "ThisCard": {
+        "Name": "Турист",
+        "ImdbID": "1243957",
+        "ImdbURL": "http://www.imdb.com/title/tt1243957",
+        "Year": "2010",
+        "Genre": "боевик драма мелодрама",
+        "Director": "Флориан Хенкель фон Доннерсмарк",
+        "WikiURL": "https://ru.wikipedia.org/wiki/Турист_(фильм)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 44,
+        "Rome": "I",
+        "DiskFolder": "0A44"
+      },
+      "Id": "df5edab5-9850-47fa-911f-ad33a2623599"
+    },
+    {
+      "ThisCard": {
+        "Name": "Эквилибриум",
+        "ImdbID": "0238380",
+        "ImdbURL": "http://www.imdb.com/title/tt0238380",
+        "Year": "2002",
+        "Genre": "антиутопия, постапокалиптика, боевик, драма, посткиберпанк",
+        "Director": "Курт Уиммер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/Эквилибриум"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 44,
+        "Rome": "II",
+        "DiskFolder": "0A44"
+      },
+      "Id": "af698dc9-8659-49de-a275-e95790b340e4"
+    },
+    {
+      "ThisCard": {
+        "Name": "Монстры на каникулах",
+        "ImdbID": "0837562",
+        "ImdbURL": "http://www.imdb.com/title/tt0837562",
+        "Year": "",
+        "Genre": "комедия фэнтези",
+        "Director": "Дженнди Тартаковски",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BD%D1%81%D1%82%D1%80%D1%8B_%D0%BD%D0%B0_%D0%BA%D0%B0%D0%BD%D0%B8%D0%BA%D1%83%D0%BB%D0%B0%D1%85"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 44,
+        "Rome": "III",
+        "DiskFolder": "0A44"
+      },
+      "Id": "7648f39f-eb15-4db0-b68b-be576e5ac4ed"
+    },
+    {
+      "ThisCard": {
+        "Name": "Миньоны",
+        "ImdbID": "2293640",
+        "ImdbURL": "http://www.imdb.com/title/tt2293640",
+        "Year": "",
+        "Genre": "комедия, фантастика, семейный",
+        "Director": "Пьер Коффин Кайл Балда",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD%D1%8B_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 44,
+        "Rome": "IV",
+        "DiskFolder": "0A44"
+      },
+      "Id": "c786a121-a7e2-4650-b180-2fa7e3699165"
+    },
+    {
+      "ThisCard": {
+        "Name": "Хороший сын",
+        "ImdbID": "0107034",
+        "ImdbURL": "http://www.imdb.com/title/tt0107034",
+        "Year": "1993",
+        "Genre": "Триллер, драма",
+        "Director": "Джозеф Рубен",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A5%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9_%D1%81%D1%8B%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_%D0%A1%D0%A8%D0%90)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 44,
+        "Rome": "V",
+        "DiskFolder": "0A44"
+      },
+      "Id": "8163984b-8c76-4925-bcad-29f086a3038a"
+    },
+    {
+      "ThisCard": {
+        "Name": "Сквозь горизонт",
+        "ImdbID": "0119081",
+        "ImdbURL": "http://www.imdb.com/title/tt0119081",
+        "Year": "1997",
+        "Genre": "научная фантастика фильм ужасов",
+        "Director": "Пол Андерсон",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B2%D0%BE%D0%B7%D1%8C_%D0%B3%D0%BE%D1%80%D0%B8%D0%B7%D0%BE%D0%BD%D1%82"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 45,
+        "Rome": "I",
+        "DiskFolder": "0A45"
+      },
+      "Id": "e5196312-542d-4783-9f3d-ceadc9f7b351"
+    },
+    {
+      "ThisCard": {
+        "Name": "Приключения мистера Пибоди и Шермана",
+        "ImdbID": "0864835",
+        "ImdbURL": "http://www.imdb.com/title/tt0864835",
+        "Year": "",
+        "Genre": "юмористическая фантастика приключения комедия семейный",
+        "Director": "Роб Минкофф",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BC%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%B0_%D0%9F%D0%B8%D0%B1%D0%BE%D0%B4%D0%B8_%D0%B8_%D0%A8%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B0"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 45,
+        "Rome": "II",
+        "DiskFolder": "0A45"
+      },
+      "Id": "8b68e5bd-3c08-46aa-84d4-76f0c371f829"
+    },
+    {
+      "ThisCard": {
+        "Name": "Клубная мания",
+        "ImdbID": "0320244",
+        "ImdbURL": "http://www.imdb.com/title/tt0320244",
+        "Year": "2003",
+        "Genre": "комедия, драма",
+        "Director": "Фентон Бэйли Рэнди Барбато",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BB%D1%83%D0%B1%D0%BD%D0%B0%D1%8F_%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 45,
+        "Rome": "III",
+        "DiskFolder": "0A45"
+      },
+      "Id": "d71f03f6-8203-4e50-8467-fb5f3f02aa9e"
+    },
+    {
+      "ThisCard": {
+        "Name": "История игрушек: Большой побег",
+        "ImdbID": "0435761",
+        "ImdbURL": "http://www.imdb.com/title/tt0435761",
+        "Year": "",
+        "Genre": "комедия,антиутопия",
+        "Director": "Ли Анкрич",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_%D0%B8%D0%B3%D1%80%D1%83%D1%88%D0%B5%D0%BA:_%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BF%D0%BE%D0%B1%D0%B5%D0%B3"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 45,
+        "Rome": "IV",
+        "DiskFolder": "0A45"
+      },
+      "Id": "ad6a70e9-fb79-423e-b885-5e388aaf7608"
+    },
+    {
+      "ThisCard": {
+        "Name": "Университет монстров",
+        "ImdbID": "1453405",
+        "ImdbURL": "http://www.imdb.com/title/tt1453405",
+        "Year": "",
+        "Genre": "Комедия",
+        "Director": "Дэн Сканлон",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%BE%D0%B2"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 45,
+        "Rome": "V",
+        "DiskFolder": "0A45"
+      },
+      "Id": "b042d9c6-d9b8-46fe-9f1f-6e0825439165"
+    },
+    {
+      "ThisCard": {
+        "Name": "Как приручить дракона 2",
+        "ImdbID": "1646971",
+        "ImdbURL": "http://www.imdb.com/title/tt1646971",
+        "Year": "",
+        "Genre": "боевик, фэнтези, семейный, комедия, приключения",
+        "Director": "Дин Деблуа",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BA_%D0%BF%D1%80%D0%B8%D1%80%D1%83%D1%87%D0%B8%D1%82%D1%8C_%D0%B4%D1%80%D0%B0%D0%BA%D0%BE%D0%BD%D0%B0_2"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 46,
+        "Rome": "I",
+        "DiskFolder": "0A46"
+      },
+      "Id": "f6e119d2-e1d3-48f9-88c6-39ec93201491"
+    },
+    {
+      "ThisCard": {
+        "Name": "Шрек Третий",
+        "ImdbID": "0413267",
+        "ImdbURL": "http://www.imdb.com/title/tt0413267",
+        "Year": "",
+        "Genre": "Комедия фэнтези мультфильм",
+        "Director": "Крис Миллер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A8%D1%80%D0%B5%D0%BA_%D0%A2%D1%80%D0%B5%D1%82%D0%B8%D0%B9"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 46,
+        "Rome": "II",
+        "DiskFolder": "0A46"
+      },
+      "Id": "e7ac8e2a-9b27-4ae3-9976-6c44c1a9ac88"
+    },
+    {
+      "ThisCard": {
+        "Name": "Шрек навсегда",
+        "ImdbID": "0892791",
+        "ImdbURL": "http://www.imdb.com/title/tt0892791",
+        "Year": "",
+        "Genre": "Комедия фэнтези",
+        "Director": "Майк Митчелл",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A8%D1%80%D0%B5%D0%BA_%D0%BD%D0%B0%D0%B2%D1%81%D0%B5%D0%B3%D0%B4%D0%B0"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 46,
+        "Rome": "III",
+        "DiskFolder": "0A46"
+      },
+      "Id": "1dea16a3-5aeb-49d5-9206-b4f7379d4eb2"
+    },
+    {
+      "ThisCard": {
+        "Name": "Гадкий я 2",
+        "ImdbID": "1690953",
+        "ImdbURL": "http://www.imdb.com/title/tt1690953",
+        "Year": "",
+        "Genre": "Комедия, фантастика, семейный",
+        "Director": "Пьер Коффин Крис Рено",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B4%D0%BA%D0%B8%D0%B9_%D1%8F_2"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 46,
+        "Rome": "IV",
+        "DiskFolder": "0A46"
+      },
+      "Id": "5bcbb8d3-6572-41ad-a70a-f83d550c2e85"
+    },
+    {
+      "ThisCard": {
+        "Name": "Мадагаскар 3",
+        "ImdbID": "1277953",
+        "ImdbURL": "http://www.imdb.com/title/tt1277953",
+        "Year": "",
+        "Genre": "мультипликация, приключения, комедия, семейный",
+        "Director": "Эрик Дарнелл&#160;(англ.) Том МакГрат Конрад Вернон&#160;(англ.)",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D0%B0%D0%B3%D0%B0%D1%81%D0%BA%D0%B0%D1%80_3"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 47,
+        "Rome": "I",
+        "DiskFolder": "0A47"
+      },
+      "Id": "cad5ad82-3723-4468-bfd9-e02ba342a94a"
+    },
+    {
+      "ThisCard": {
+        "Name": "Пять сантиметров в секунду",
+        "ImdbID": "0983213",
+        "ImdbURL": "http://www.imdb.com/title/tt0983213",
+        "Year": "",
+        "Genre": "романтика, драма ",
+        "Director": "Макото Синкай ",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9F%D1%8F%D1%82%D1%8C_%D1%81%D0%B0%D0%BD%D1%82%D0%B8%D0%BC%D0%B5%D1%82%D1%80%D0%BE%D0%B2_%D0%B2_%D1%81%D0%B5%D0%BA%D1%83%D0%BD%D0%B4%D1%83"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 47,
+        "Rome": "II",
+        "DiskFolder": "0A47"
+      },
+      "Id": "50dd19fa-33af-4854-ba48-4243320c8c6b"
+    },
+    {
+      "ThisCard": {
+        "Name": "Мизери",
+        "ImdbID": "0100157",
+        "ImdbURL": "http://www.imdb.com/title/tt0100157",
+        "Year": "1990",
+        "Genre": "триллер",
+        "Director": "Роб Райнер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%B7%D0%B5%D1%80%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 47,
+        "Rome": "III",
+        "DiskFolder": "0A47"
+      },
+      "Id": "2832e9d2-27c6-4e10-8d44-5d14083d8ad0"
+    },
+    {
+      "ThisCard": {
+        "Name": "Голова-ластик",
+        "ImdbID": "0074486",
+        "ImdbURL": "http://www.imdb.com/title/tt0074486",
+        "Year": "1977",
+        "Genre": "ужасы фантастика драма сюрреализм",
+        "Director": "Дэвид Линч",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%B0-%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 47,
+        "Rome": "IV",
+        "DiskFolder": "0A47"
+      },
+      "Id": "a483ade1-7d23-4f00-b6ff-c37439995998"
+    },
+    {
+      "ThisCard": {
+        "Name": "Нечто",
+        "ImdbID": "0084787",
+        "ImdbURL": "http://www.imdb.com/title/tt0084787",
+        "Year": "1982",
+        "Genre": "фантастика фильм ужасов",
+        "Director": "Джон Карпентер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B5%D1%87%D1%82%D0%BE_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1982)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 47,
+        "Rome": "V",
+        "DiskFolder": "0A47"
+      },
+      "Id": "c6bb43a0-a7a4-4638-891a-e73b4d46adaf"
+    },
+    {
+      "ThisCard": {
+        "Name": "Гремлины",
+        "ImdbID": "0087363",
+        "ImdbURL": "http://www.imdb.com/title/tt0087363",
+        "Year": "1984",
+        "Genre": "фантастика, ужасы, комедия",
+        "Director": "Джо Данте",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B5%D0%BC%D0%BB%D0%B8%D0%BD%D1%8B"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 48,
+        "Rome": "I",
+        "DiskFolder": "0A48"
+      },
+      "Id": "800773f3-17ca-4b6c-9c47-74acb63f7795"
+    },
+    {
+      "ThisCard": {
+        "Name": "«Плетёный человек»",
+        "ImdbID": "0070917",
+        "ImdbURL": "http://www.imdb.com/title/tt0070917",
+        "Year": "1973",
+        "Genre": "триллер мистика",
+        "Director": "Робин Харди",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B5%D1%82%D1%91%D0%BD%D1%8B%D0%B9_%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1973)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 48,
+        "Rome": "II",
+        "DiskFolder": "0A48"
+      },
+      "Id": "95599c2b-6deb-4263-89dd-e7c0a568201e"
+    },
+    {
+      "ThisCard": {
+        "Name": "Молчание ягнят",
+        "ImdbID": "0102926",
+        "ImdbURL": "http://www.imdb.com/title/tt0102926",
+        "Year": "1991",
+        "Genre": "триллер",
+        "Director": "Джонатан Демми",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%B8%D0%B5_%D1%8F%D0%B3%D0%BD%D1%8F%D1%82_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 48,
+        "Rome": "III",
+        "DiskFolder": "0A48"
+      },
+      "Id": "fb7590b3-a99c-428c-aa6a-cf7c972ee260"
+    },
+    {
+      "ThisCard": {
+        "Name": "Туман",
+        "ImdbID": "0080749",
+        "ImdbURL": "http://www.imdb.com/title/tt0080749",
+        "Year": "1980",
+        "Genre": "фильм ужасов",
+        "Director": "Джон Карпентер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BC%D0%B0%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1980)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 48,
+        "Rome": "IV",
+        "DiskFolder": "0A48"
+      },
+      "Id": "598a235a-6d8e-413a-b171-29451c28e276"
+    },
+    {
+      "ThisCard": {
+        "Name": "Крик",
+        "ImdbID": "0117571",
+        "ImdbURL": "http://www.imdb.com/title/tt0117571",
+        "Year": "1996",
+        "Genre": "слэшер",
+        "Director": "Уэс Крэйвен",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B8%D0%BA_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1996)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 48,
+        "Rome": "V",
+        "DiskFolder": "0A48"
+      },
+      "Id": "c647954a-dca3-46cd-963a-65014e684f6d"
+    },
+    {
+      "ThisCard": {
+        "Name": "Шестое чувство",
+        "ImdbID": "0167404",
+        "ImdbURL": "http://www.imdb.com/title/tt0167404",
+        "Year": "1999",
+        "Genre": "драма мистика триллер",
+        "Director": "М. Найт Шьямалан",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A8%D0%B5%D1%81%D1%82%D0%BE%D0%B5_%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D0%BE_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1999)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 49,
+        "Rome": "I",
+        "DiskFolder": "0A49"
+      },
+      "Id": "a5f6cac6-8519-46f7-b838-96b22634df38"
+    },
+    {
+      "ThisCard": {
+        "Name": "Другие",
+        "ImdbID": "0230600",
+        "ImdbURL": "http://www.imdb.com/title/tt0230600",
+        "Year": "2001",
+        "Genre": "мистика драма триллер",
+        "Director": "Алехандро Аменабар",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%94%D1%80%D1%83%D0%B3%D0%B8%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2001)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 49,
+        "Rome": "II",
+        "DiskFolder": "0A49"
+      },
+      "Id": "dd81fb0e-1395-493a-9440-bb8387c0fe7f"
+    },
+    {
+      "ThisCard": {
+        "Name": "Впусти меня",
+        "ImdbID": "1139797",
+        "ImdbURL": "http://www.imdb.com/title/tt1139797",
+        "Year": "2008",
+        "Genre": "мистический триллер, фэнтези, мелодрама",
+        "Director": "Томас Альфредсон",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%92%D0%BF%D1%83%D1%81%D1%82%D0%B8_%D0%BC%D0%B5%D0%BD%D1%8F_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2008)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 49,
+        "Rome": "III",
+        "DiskFolder": "0A49"
+      },
+      "Id": "1d6b8b8a-6682-4d74-b82d-051501939440"
+    },
+    {
+      "ThisCard": {
+        "Name": "Поющие под дождём",
+        "ImdbID": "0045152",
+        "ImdbURL": "http://www.imdb.com/title/tt0045152",
+        "Year": "1952",
+        "Genre": "музыкальный фильм комедия мелодрама",
+        "Director": "Джин Келли Стэнли Донен",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%8E%D1%89%D0%B8%D0%B5_%D0%BF%D0%BE%D0%B4_%D0%B4%D0%BE%D0%B6%D0%B4%D1%91%D0%BC"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 49,
+        "Rome": "IV",
+        "DiskFolder": "0A49"
+      },
+      "Id": "0c0c6369-a9a4-4763-88a1-09ec01e1c804"
+    },
+    {
+      "ThisCard": {
+        "Name": "Омен",
+        "ImdbID": "0075005",
+        "ImdbURL": "http://www.imdb.com/title/tt0075005",
+        "Year": "1976",
+        "Genre": "мистика, триллер, драма",
+        "Director": "Ричард Доннер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9E%D0%BC%D0%B5%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1976)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 49,
+        "Rome": "V",
+        "DiskFolder": "0A49"
+      },
+      "Id": "b2865478-3bbf-4fc1-907e-1fb36be807c0"
+    },
+    {
+      "ThisCard": {
+        "Name": "Сердце Ангела",
+        "ImdbID": "0092563",
+        "ImdbURL": "http://www.imdb.com/title/tt0092563",
+        "Year": "1987",
+        "Genre": "фильм ужасов / триллер",
+        "Director": "Алан Паркер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D1%80%D0%B4%D1%86%D0%B5_%D0%90%D0%BD%D0%B3%D0%B5%D0%BB%D0%B0"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 50,
+        "Rome": "I",
+        "DiskFolder": "0A50"
+      },
+      "Id": "d3ae0dc7-93c0-449d-818e-71459733a6b7"
+    },
+    {
+      "ThisCard": {
+        "Name": "Рассвет мертвецов",
+        "ImdbID": "0077402",
+        "ImdbURL": "http://www.imdb.com/title/tt0077402",
+        "Year": "1978",
+        "Genre": "фильм ужасов[1][2], кинофантастика, боевик и фильм про зомби[d]",
+        "Director": "Ромеро, Джордж[1][2]",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D1%81%D1%81%D0%B2%D0%B5%D1%82_%D0%BC%D0%B5%D1%80%D1%82%D0%B2%D0%B5%D1%86%D0%BE%D0%B2_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1978)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 50,
+        "Rome": "II",
+        "DiskFolder": "0A50"
+      },
+      "Id": "87708b4e-f233-4e50-82ad-b307660d84dd"
+    },
+    {
+      "ThisCard": {
+        "Name": "Американский оборотень в Лондоне",
+        "ImdbID": "0082010",
+        "ImdbURL": "http://www.imdb.com/title/tt0082010",
+        "Year": "1981",
+        "Genre": "фильм ужасов, комедия",
+        "Director": "Джон Лэндис",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D0%B1%D0%BE%D1%80%D0%BE%D1%82%D0%B5%D0%BD%D1%8C_%D0%B2_%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 50,
+        "Rome": "III",
+        "DiskFolder": "0A50"
+      },
+      "Id": "8c367d1d-a804-4255-bb89-f373755ce26a"
+    },
+    {
+      "ThisCard": {
+        "Name": "А теперь не смотри",
+        "ImdbID": "0069995",
+        "ImdbURL": "http://www.imdb.com/title/tt0069995",
+        "Year": "1973",
+        "Genre": "мистический триллер",
+        "Director": "Николас Роуг",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%90_%D1%82%D0%B5%D0%BF%D0%B5%D1%80%D1%8C_%D0%BD%D0%B5_%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B8"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 50,
+        "Rome": "IV",
+        "DiskFolder": "0A50"
+      },
+      "Id": "b04c421d-afd5-42b2-8696-a0826a1311d0"
+    },
+    {
+      "ThisCard": {
+        "Name": "Кэрри",
+        "ImdbID": "0074285",
+        "ImdbURL": "http://www.imdb.com/title/tt0074285",
+        "Year": "1976",
+        "Genre": "мистика ужасы драма психологический триллер",
+        "Director": "Брайан ДеПальма",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8D%D1%80%D1%80%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1976)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 50,
+        "Rome": "V",
+        "DiskFolder": "0A50"
+      },
+      "Id": "d105a29a-952e-470d-a4a9-dc606ea20d54"
+    },
+    {
+      "ThisCard": {
+        "Name": "Кошмар на улице Вязов",
+        "ImdbID": "0087800",
+        "ImdbURL": "http://www.imdb.com/title/tt0087800",
+        "Year": "1984",
+        "Genre": "фильм ужасов слэшер",
+        "Director": "Уэс Крэйвен",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%88%D0%BC%D0%B0%D1%80_%D0%BD%D0%B0_%D1%83%D0%BB%D0%B8%D1%86%D0%B5_%D0%92%D1%8F%D0%B7%D0%BE%D0%B2_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1984)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 51,
+        "Rome": "I",
+        "DiskFolder": "0A51"
+      },
+      "Id": "d86f9792-153d-4de7-8e15-049291d67e26"
+    },
+    {
+      "ThisCard": {
+        "Name": "Челюсти",
+        "ImdbID": "0073195",
+        "ImdbURL": "http://www.imdb.com/title/tt0073195",
+        "Year": "1975",
+        "Genre": "фильм ужасов триллер",
+        "Director": "Стивен Спилберг",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BB%D1%8E%D1%81%D1%82%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 51,
+        "Rome": "II",
+        "DiskFolder": "0A51"
+      },
+      "Id": "9b0bab0c-746a-4f8d-a139-496674affb81"
+    },
+    {
+      "ThisCard": {
+        "Name": "Техасская резня бензопилой",
+        "ImdbID": "0072271",
+        "ImdbURL": "http://www.imdb.com/title/tt0072271",
+        "Year": "1974",
+        "Genre": "фильм ужасов",
+        "Director": "Тоуб Хупер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%85%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D0%B7%D0%BD%D1%8F_%D0%B1%D0%B5%D0%BD%D0%B7%D0%BE%D0%BF%D0%B8%D0%BB%D0%BE%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1974)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 51,
+        "Rome": "III",
+        "DiskFolder": "0A51"
+      },
+      "Id": "1e95c69b-760c-4ead-88e2-c3570f202d7a"
+    },
+    {
+      "ThisCard": {
+        "Name": "Полтергейст",
+        "ImdbID": "0084516",
+        "ImdbURL": "http://www.imdb.com/title/tt0084516",
+        "Year": "1982",
+        "Genre": "фильм ужасов",
+        "Director": "Тоуб Хупер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%82%D0%B5%D1%80%D0%B3%D0%B5%D0%B9%D1%81%D1%82_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1982)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 51,
+        "Rome": "IV",
+        "DiskFolder": "0A51"
+      },
+      "Id": "fea89a13-ac7a-44b4-89dd-69aa1d366c3d"
+    },
+    {
+      "ThisCard": {
+        "Name": "28 дней спустя",
+        "ImdbID": "0289043",
+        "ImdbURL": "http://www.imdb.com/title/tt0289043",
+        "Year": "2002",
+        "Genre": "Постапокалиптика Ужасы Триллер Драма",
+        "Director": "Дэнни Бойл",
+        "WikiURL": "https://ru.wikipedia.org/wiki/28_%D0%B4%D0%BD%D0%B5%D0%B9_%D1%81%D0%BF%D1%83%D1%81%D1%82%D1%8F"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 52,
+        "Rome": "I",
+        "DiskFolder": "0A52"
+      },
+      "Id": "b9267113-a50e-46cb-bc9a-85aeb773bb8a"
+    },
+    {
+      "ThisCard": {
+        "Name": "Увольнение в город",
+        "ImdbID": "0041716",
+        "ImdbURL": "http://www.imdb.com/title/tt0041716",
+        "Year": "1949",
+        "Genre": "комедия мелодрама музыкальный фильм",
+        "Director": "Стенли Донен Джин Келли",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A3%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%B3%D0%BE%D1%80%D0%BE%D0%B4"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 52,
+        "Rome": "II",
+        "DiskFolder": "0A52"
+      },
+      "Id": "0afa46b3-4a73-4939-9c23-190130a7594e"
+    },
+    {
+      "ThisCard": {
+        "Name": "Ведьма из Блэр: Курсовая с того света",
+        "ImdbID": "0185937",
+        "ImdbURL": "http://www.imdb.com/title/tt0185937",
+        "Year": "1999",
+        "Genre": "фильм ужасов псевдодокументальный фильм",
+        "Director": "Дэниел Мирик Эдуардо Санчес",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B4%D1%8C%D0%BC%D0%B0_%D0%B8%D0%B7_%D0%91%D0%BB%D1%8D%D1%80:_%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81_%D1%82%D0%BE%D0%B3%D0%BE_%D1%81%D0%B2%D0%B5%D1%82%D0%B0"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 52,
+        "Rome": "III",
+        "DiskFolder": "0A52"
+      },
+      "Id": "67f0c9c0-9b42-43fe-b6be-5923fa42cba4"
+    },
+    {
+      "ThisCard": {
+        "Name": "42-я улица",
+        "ImdbID": "0024034",
+        "ImdbURL": "http://www.imdb.com/title/tt0024034",
+        "Year": "1933",
+        "Genre": "комедия мюзикл мелодрама",
+        "Director": "Ллойд Бэкон Басби Беркли (муз. номера)",
+        "WikiURL": "https://ru.wikipedia.org/wiki/42-%D1%8F_%D1%83%D0%BB%D0%B8%D1%86%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 52,
+        "Rome": "IV",
+        "DiskFolder": "0A52"
+      },
+      "Id": "aa092263-5057-4de4-8b81-73b8c651cc05"
+    },
+    {
+      "ThisCard": {
+        "Name": "Кинопроба",
+        "ImdbID": "0235198",
+        "ImdbURL": "http://www.imdb.com/title/tt0235198",
+        "Year": "1999",
+        "Genre": "фильм ужасов, драма",
+        "Director": "Такаси Миикэ",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 52,
+        "Rome": "V",
+        "DiskFolder": "0A52"
+      },
+      "Id": "6519009e-df59-4b73-b1d8-7c8624816e37"
+    },
+    {
+      "ThisCard": {
+        "Name": "Пекло",
+        "ImdbID": "0448134",
+        "ImdbURL": "http://www.imdb.com/title/tt0448134",
+        "Year": "2007",
+        "Genre": "научная фантастика, драма, триллер, приключения",
+        "Director": "Дэнни Бойл",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D0%BA%D0%BB%D0%BE_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2007)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 52,
+        "Rome": "VI",
+        "DiskFolder": "0A52"
+      },
+      "Id": "6f5ac1ce-a1b1-47f1-beb4-6038c174ccf5"
+    },
+    {
+      "ThisCard": {
+        "Name": "Римские каникулы",
+        "ImdbID": "0046250",
+        "ImdbURL": "http://www.imdb.com/title/tt0046250",
+        "Year": "1953",
+        "Genre": "комедия, мелодрама",
+        "Director": "Уильям Уайлер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B8%D0%BC%D1%81%D0%BA%D0%B8%D0%B5_%D0%BA%D0%B0%D0%BD%D0%B8%D0%BA%D1%83%D0%BB%D1%8B"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 53,
+        "Rome": "I",
+        "DiskFolder": "0A53"
+      },
+      "Id": "b19b095d-117e-46d6-9a65-146fd09efe1e"
+    },
+    {
+      "ThisCard": {
+        "Name": "Телесеть",
+        "ImdbID": "0074958",
+        "ImdbURL": "http://www.imdb.com/title/tt0074958",
+        "Year": "1976",
+        "Genre": "психологическая драма",
+        "Director": "Сидни Люмет",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%82%D1%8C"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 53,
+        "Rome": "II",
+        "DiskFolder": "0A53"
+      },
+      "Id": "57416575-6d20-4445-8368-5a4d8507e437"
+    },
+    {
+      "ThisCard": {
+        "Name": "Письма с Иводзимы",
+        "ImdbID": "0498380",
+        "ImdbURL": "http://www.imdb.com/title/tt0498380",
+        "Year": "2006",
+        "Genre": "драма, военный, исторический",
+        "Director": "Клинт Иствуд",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B8%D1%81%D1%8C%D0%BC%D0%B0_%D1%81_%D0%98%D0%B2%D0%BE%D0%B4%D0%B7%D0%B8%D0%BC%D1%8B"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 53,
+        "Rome": "III",
+        "DiskFolder": "0A53"
+      },
+      "Id": "10dbc76b-0725-4795-932a-674eca0f08c4"
+    },
+    {
+      "ThisCard": {
+        "Name": "Ребёнок Розмари",
+        "ImdbID": "0063522",
+        "ImdbURL": "http://www.imdb.com/title/tt0063522",
+        "Year": "1968",
+        "Genre": "триллер / фильм ужасов",
+        "Director": "Роман Полански",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D0%B1%D1%91%D0%BD%D0%BE%D0%BA_%D0%A0%D0%BE%D0%B7%D0%BC%D0%B0%D1%80%D0%B8"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 53,
+        "Rome": "IV",
+        "DiskFolder": "0A53"
+      },
+      "Id": "ee5c5455-733e-466f-a60f-6a8f30cede48"
+    },
+    {
+      "ThisCard": {
+        "Name": "Манхэттен",
+        "ImdbID": "0079522",
+        "ImdbURL": "http://www.imdb.com/title/tt0079522",
+        "Year": "1979",
+        "Genre": "комедия",
+        "Director": "Вуди Аллен",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D1%85%D1%8D%D1%82%D1%82%D0%B5%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 53,
+        "Rome": "V",
+        "DiskFolder": "0A53"
+      },
+      "Id": "20355ff1-158e-4794-8568-e2305edff64c"
+    },
+    {
+      "ThisCard": {
+        "Name": "Звёздный путь",
+        "ImdbID": "0796366",
+        "ImdbURL": "http://www.imdb.com/title/tt0796366",
+        "Year": "2009",
+        "Genre": "боевик приключенческий фильм научная фантастика",
+        "Director": "Дж. Дж. Абрамс",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D0%B9_%D0%BF%D1%83%D1%82%D1%8C_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2009)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 54,
+        "Rome": "I",
+        "DiskFolder": "0A54"
+      },
+      "Id": "37cd14eb-1712-4b43-b8cf-e1e0be8f5727"
+    },
+    {
+      "ThisCard": {
+        "Name": "Три цвета: Красный",
+        "ImdbID": "0111495",
+        "ImdbURL": "http://www.imdb.com/title/tt0111495",
+        "Year": "1994",
+        "Genre": "драма",
+        "Director": "Кшиштоф Кеслёвский",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8_%D1%86%D0%B2%D0%B5%D1%82%D0%B0:_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 54,
+        "Rome": "II",
+        "DiskFolder": "0A54"
+      },
+      "Id": "7146d685-e9b4-4f04-a0ad-d0938af6f218"
+    },
+    {
+      "ThisCard": {
+        "Name": "Магнолия",
+        "ImdbID": "0175880",
+        "ImdbURL": "http://www.imdb.com/title/tt0175880",
+        "Year": "1999",
+        "Genre": "драма",
+        "Director": "Пол Томас Андерсон",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BD%D0%BE%D0%BB%D0%B8%D1%8F_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 54,
+        "Rome": "III",
+        "DiskFolder": "0A54"
+      },
+      "Id": "49393743-6ab0-4c11-bd59-0fcf62287690"
+    },
+    {
+      "ThisCard": {
+        "Name": "Двойная рокировка",
+        "ImdbID": "0338564",
+        "ImdbURL": "http://www.imdb.com/title/tt0338564",
+        "Year": "2002",
+        "Genre": "триллер криминальный фильм",
+        "Director": "Эндрю Лау[zh] Алан Мак[zh]",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D0%B9%D0%BD%D0%B0%D1%8F_%D1%80%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B0"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 54,
+        "Rome": "IV",
+        "DiskFolder": "0A54"
+      },
+      "Id": "27b764bd-45a9-46f3-9e1b-6b9ed9df7056"
+    },
+    {
+      "ThisCard": {
+        "Name": "Красавица и Чудовище",
+        "ImdbID": "0101414",
+        "ImdbURL": "http://www.imdb.com/title/tt0101414",
+        "Year": "",
+        "Genre": "семейный, мелодрама, мюзикл, сказка",
+        "Director": "Гари Трусдейл Кирк Уайз",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%B0%D0%B2%D0%B8%D1%86%D0%B0_%D0%B8_%D0%A7%D1%83%D0%B4%D0%BE%D0%B2%D0%B8%D1%89%D0%B5_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 54,
+        "Rome": "V",
+        "DiskFolder": "0A54"
+      },
+      "Id": "b37c681b-210f-4094-b078-433536e8b42a"
+    },
+    {
+      "ThisCard": {
+        "Name": "Когда мужчина любит женщину",
+        "ImdbID": "0111693",
+        "ImdbURL": "http://www.imdb.com/title/tt0111693",
+        "Year": "1994",
+        "Genre": "мелодрама",
+        "Director": "Луис Мандоки",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B3%D0%B4%D0%B0_%D0%BC%D1%83%D0%B6%D1%87%D0%B8%D0%BD%D0%B0_%D0%BB%D1%8E%D0%B1%D0%B8%D1%82_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D1%83"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 55,
+        "Rome": "I",
+        "DiskFolder": "0A55"
+      },
+      "Id": "64f076a2-6e24-4656-a8e4-c7216ed4b961"
+    },
+    {
+      "ThisCard": {
+        "Name": "Королевская милость",
+        "ImdbID": "0114272",
+        "ImdbURL": "http://www.imdb.com/title/tt0114272",
+        "Year": "1995",
+        "Genre": "драма/исторический",
+        "Director": "Майкл Хоффман",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D0%B8%D0%BB%D0%BE%D1%81%D1%82%D1%8C_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1995)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 55,
+        "Rome": "II",
+        "DiskFolder": "0A55"
+      },
+      "Id": "116695e5-b123-4745-9b19-62779f7a96c7"
+    },
+    {
+      "ThisCard": {
+        "Name": "Женщины",
+        "ImdbID": "0430770",
+        "ImdbURL": "http://www.imdb.com/title/tt0430770",
+        "Year": "2008",
+        "Genre": "трагикомедия",
+        "Director": "Дайан Инглиш",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BD%D1%89%D0%B8%D0%BD%D1%8B_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2008)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 55,
+        "Rome": "III",
+        "DiskFolder": "0A55"
+      },
+      "Id": "4d189f65-c695-42e2-8532-3d7a51451d8d"
+    },
+    {
+      "ThisCard": {
+        "Name": "Прелюдия к поцелую",
+        "ImdbID": "0105165",
+        "ImdbURL": "http://www.imdb.com/title/tt0105165",
+        "Year": "1992",
+        "Genre": "романтическая фантазия",
+        "Director": "Норман Рене&#160;(англ.)русск.",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%B5%D0%BB%D1%8E%D0%B4%D0%B8%D1%8F_%D0%BA_%D0%BF%D0%BE%D1%86%D0%B5%D0%BB%D1%83%D1%8E_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 55,
+        "Rome": "IV",
+        "DiskFolder": "0A55"
+      },
+      "Id": "ec772d51-be5a-4b2b-995d-a07da65d95c2"
+    },
+    {
+      "ThisCard": {
+        "Name": "Французский поцелуй",
+        "ImdbID": "0113117",
+        "ImdbURL": "http://www.imdb.com/title/tt0113117",
+        "Year": "1995",
+        "Genre": "комедия мелодрама",
+        "Director": "Лоуренс Кэздан",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%BE%D1%86%D0%B5%D0%BB%D1%83%D0%B9_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 56,
+        "Rome": "I",
+        "DiskFolder": "0A56"
+      },
+      "Id": "6977f6f0-521d-4950-9f21-37bf2408316f"
+    },
+    {
+      "ThisCard": {
+        "Name": "Дурман любви",
+        "ImdbID": "0118556",
+        "ImdbURL": "http://www.imdb.com/title/tt0118556",
+        "Year": "1997",
+        "Genre": "романтическая кинокомедия",
+        "Director": "Гриффин Данн",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D1%80%D0%BC%D0%B0%D0%BD_%D0%BB%D1%8E%D0%B1%D0%B2%D0%B8"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 56,
+        "Rome": "II",
+        "DiskFolder": "0A56"
+      },
+      "Id": "4433172c-be5a-418a-b92b-618892ee88c2"
+    },
+    {
+      "ThisCard": {
+        "Name": "В стране женщин",
+        "ImdbID": "0419843",
+        "ImdbURL": "http://www.imdb.com/title/tt0419843",
+        "Year": "2007",
+        "Genre": "драма, комедия, мелодрама",
+        "Director": "Джон Кэздан",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%92_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B5_%D0%B6%D0%B5%D0%BD%D1%89%D0%B8%D0%BD"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 56,
+        "Rome": "III",
+        "DiskFolder": "0A56"
+      },
+      "Id": "26660ca4-da07-411b-b542-d72d1073176a"
+    },
+    {
+      "ThisCard": {
+        "Name": "Это развод!",
+        "ImdbID": "1133993",
+        "ImdbURL": "http://www.imdb.com/title/tt1133993",
+        "Year": "2009",
+        "Genre": "комедия",
+        "Director": "Шерил Хайнс",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%AD%D1%82%D0%BE_%D1%80%D0%B0%D0%B7%D0%B2%D0%BE%D0%B4!"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 56,
+        "Rome": "IV",
+        "DiskFolder": "0A56"
+      },
+      "Id": "6221ca21-9f21-4a6c-b639-d0f415bb1ef8"
+    },
+    {
+      "ThisCard": {
+        "Name": "Лагерь для военнопленных № 17",
+        "ImdbID": "0046359",
+        "ImdbURL": "http://www.imdb.com/title/tt0046359",
+        "Year": "1953",
+        "Genre": "военная драма",
+        "Director": "Билли Уайлдер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9B%D0%B0%D0%B3%D0%B5%D1%80%D1%8C_%D0%B4%D0%BB%D1%8F_%D0%B2%D0%BE%D0%B5%D0%BD%D0%BD%D0%BE%D0%BF%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%E2%84%96_17"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 57,
+        "Rome": "I",
+        "DiskFolder": "0A57"
+      },
+      "Id": "129d0802-17d2-479d-a5a8-f7507f1bafd0"
+    },
+    {
+      "ThisCard": {
+        "Name": "Фанни и Александр",
+        "ImdbID": "0083922",
+        "ImdbURL": "http://www.imdb.com/title/tt0083922",
+        "Year": "1982",
+        "Genre": "драма",
+        "Director": "Ингмар Бергман",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%BD%D0%BD%D0%B8_%D0%B8_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 57,
+        "Rome": "II",
+        "DiskFolder": "0A57"
+      },
+      "Id": "1475b4ba-6ce5-439f-96c5-7bce236c62e9"
+    },
+    {
+      "ThisCard": {
+        "Name": "Умница Уилл Хантинг",
+        "ImdbID": "0119217",
+        "ImdbURL": "http://www.imdb.com/title/tt0119217",
+        "Year": "1997",
+        "Genre": "драма",
+        "Director": "Гас Ван Сент",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BC%D0%BD%D0%B8%D1%86%D0%B0_%D0%A3%D0%B8%D0%BB%D0%BB_%D0%A5%D0%B0%D0%BD%D1%82%D0%B8%D0%BD%D0%B3"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 57,
+        "Rome": "III",
+        "DiskFolder": "0A57"
+      },
+      "Id": "3ad56cc0-8c17-4005-b1b4-6a1934a44c2b"
+    },
+    {
+      "ThisCard": {
+        "Name": "Человек, который застрелил Либерти Вэланса",
+        "ImdbID": "0056217",
+        "ImdbURL": "http://www.imdb.com/title/tt0056217",
+        "Year": "1962",
+        "Genre": "вестерн",
+        "Director": "Джон Форд",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA,_%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9_%D0%B7%D0%B0%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%B8%D0%BB_%D0%9B%D0%B8%D0%B1%D0%B5%D1%80%D1%82%D0%B8_%D0%92%D1%8D%D0%BB%D0%B0%D0%BD%D1%81%D0%B0"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 57,
+        "Rome": "IV",
+        "DiskFolder": "0A57"
+      },
+      "Id": "d36dc681-73e6-4b44-8e12-bd49a85b823d"
+    },
+    {
+      "ThisCard": {
+        "Name": "Таинственная река",
+        "ImdbID": "0327056",
+        "ImdbURL": "http://www.imdb.com/title/tt0327056",
+        "Year": "2003",
+        "Genre": "драматический детектив",
+        "Director": "Клинт Иствуд",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F_%D1%80%D0%B5%D0%BA%D0%B0"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 57,
+        "Rome": "V",
+        "DiskFolder": "0A57"
+      },
+      "Id": "8ee896e2-6f8a-4fc2-a002-d737e2fd76e2"
+    },
+    {
+      "ThisCard": {
+        "Name": "Бегущий человек",
+        "ImdbID": "0093894",
+        "ImdbURL": "http://www.imdb.com/title/tt0093894",
+        "Year": "1987",
+        "Genre": "боевик, = антиутопия",
+        "Director": "Пол Майкл Глейзер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/Бегущий_человек_(фильм)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 58,
+        "Rome": "I",
+        "DiskFolder": "0A58"
+      },
+      "Id": "898a50ad-65b6-47f2-bc3c-24eaf016e769"
+    },
+    {
+      "ThisCard": {
+        "Name": "Последний киногерой",
+        "ImdbID": "0107362",
+        "ImdbURL": "http://www.imdb.com/title/tt0107362",
+        "Year": "1993",
+        "Genre": "комедийный фантастический боевик",
+        "Director": "Джон Мактирнан",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BA%D0%B8%D0%BD%D0%BE%D0%B3%D0%B5%D1%80%D0%BE%D0%B9"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 58,
+        "Rome": "II",
+        "DiskFolder": "0A58"
+      },
+      "Id": "0816512e-3c24-44bd-8597-600c4f674d33"
+    },
+    {
+      "ThisCard": {
+        "Name": "Скалолаз",
+        "ImdbID": "0106582",
+        "ImdbURL": "http://www.imdb.com/title/tt0106582",
+        "Year": "1993",
+        "Genre": "боевик приключенческий фильм",
+        "Director": "Ренни Харлин",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D0%BB%D0%BE%D0%BB%D0%B0%D0%B7_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 58,
+        "Rome": "III",
+        "DiskFolder": "0A58"
+      },
+      "Id": "e01cc509-187d-42ab-9d24-1d0e171307ff"
+    },
+    {
+      "ThisCard": {
+        "Name": "Час пик 2",
+        "ImdbID": "0266915",
+        "ImdbURL": "http://www.imdb.com/title/tt0266915",
+        "Year": "2001",
+        "Genre": "боевик комедия",
+        "Director": "Бретт Рэтнер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B0%D1%81_%D0%BF%D0%B8%D0%BA_2"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 59,
+        "Rome": "I",
+        "DiskFolder": "0A59"
+      },
+      "Id": "fde2215a-61e4-4311-9fe8-0938be7ff4be"
+    },
+    {
+      "ThisCard": {
+        "Name": "«Конец света»",
+        "ImdbID": "0146675",
+        "ImdbURL": "http://www.imdb.com/title/tt0146675",
+        "Year": "1999",
+        "Genre": "мистический боевик",
+        "Director": "Питер Хайамс",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B5%D1%86_%D1%81%D0%B2%D0%B5%D1%82%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1999)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 59,
+        "Rome": "II",
+        "DiskFolder": "0A59"
+      },
+      "Id": "207d4ad7-a321-4285-9fd7-c855ea533d45"
+    },
+    {
+      "ThisCard": {
+        "Name": "Судья Дредд",
+        "ImdbID": "0113492",
+        "ImdbURL": "http://www.imdb.com/title/tt0113492",
+        "Year": "1995",
+        "Genre": "фантастический боевик неонуар",
+        "Director": "Дэнни Кэннон",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D0%B4%D1%8C%D1%8F_%D0%94%D1%80%D0%B5%D0%B4%D0%B4_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1995)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 59,
+        "Rome": "III",
+        "DiskFolder": "0A59"
+      },
+      "Id": "216f0482-7027-4221-ba71-278e89d123df"
+    },
+    {
+      "ThisCard": {
+        "Name": "Одинокий волк Маккуэйд",
+        "ImdbID": "0085862",
+        "ImdbURL": "http://www.imdb.com/title/tt0085862",
+        "Year": "1983",
+        "Genre": "боевик вестерн драма",
+        "Director": "Стив Карвер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9E%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA%D0%B8%D0%B9_%D0%B2%D0%BE%D0%BB%D0%BA_%D0%9C%D0%B0%D0%BA%D0%BA%D1%83%D1%8D%D0%B9%D0%B4"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 59,
+        "Rome": "IV",
+        "DiskFolder": "0A59"
+      },
+      "Id": "b481f8fd-e719-46a3-ad54-bd6c4d0316e9"
+    },
+    {
+      "ThisCard": {
+        "Name": "127 часов",
+        "ImdbID": "1542344",
+        "ImdbURL": "http://www.imdb.com/title/tt1542344",
+        "Year": "2010",
+        "Genre": "драма триллер",
+        "Director": "Дэнни Бойл",
+        "WikiURL": "https://ru.wikipedia.org/wiki/127_%D1%87%D0%B0%D1%81%D0%BE%D0%B2"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 60,
+        "Rome": "I",
+        "DiskFolder": "0A60"
+      },
+      "Id": "48f7d37c-a08b-4ad1-a73d-6617c83e84ef"
+    },
+    {
+      "ThisCard": {
+        "Name": "Апокалипсис",
+        "ImdbID": "0472043",
+        "ImdbURL": "http://www.imdb.com/title/tt0472043",
+        "Year": "2006",
+        "Genre": "драма приключения",
+        "Director": "Мел Гибсон",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%BE%D0%BA%D0%B0%D0%BB%D0%B8%D0%BF%D1%81%D0%B8%D1%81_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 60,
+        "Rome": "II",
+        "DiskFolder": "0A60"
+      },
+      "Id": "0b6057bd-3502-456e-beb8-9f230fc8ffa0"
+    },
+    {
+      "ThisCard": {
+        "Name": "Бездна",
+        "ImdbID": "0096754",
+        "ImdbURL": "http://www.imdb.com/title/tt0096754",
+        "Year": "1989",
+        "Genre": "фантастика приключения триллер драма",
+        "Director": "Джеймс Кэмерон",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B7%D0%B4%D0%BD%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1989)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 60,
+        "Rome": "III",
+        "DiskFolder": "0A60"
+      },
+      "Id": "ea99a016-aca8-48d5-a2c0-edde62627a25"
+    },
+    {
+      "ThisCard": {
+        "Name": "Дерсу Узала",
+        "ImdbID": "0071411",
+        "ImdbURL": "http://www.imdb.com/title/tt0071411",
+        "Year": "1975",
+        "Genre": "Драма приключения",
+        "Director": "Акира Куросава",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D1%81%D1%83_%D0%A3%D0%B7%D0%B0%D0%BB%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1975)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 60,
+        "Rome": "IV",
+        "DiskFolder": "0A60"
+      },
+      "Id": "f7d77c3a-23e4-4e40-96d6-a4e397394c68"
+    },
+    {
+      "ThisCard": {
+        "Name": "Большие гонки",
+        "ImdbID": "0059243",
+        "ImdbURL": "http://www.imdb.com/title/tt0059243",
+        "Year": "1965",
+        "Genre": "комедийный фильм-путешествие",
+        "Director": "Блэйк Эдвардс",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5_%D0%B3%D0%BE%D0%BD%D0%BA%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 60,
+        "Rome": "V",
+        "DiskFolder": "0A60"
+      },
+      "Id": "dd36e0c0-3b79-4380-be28-4ff1b86f7f18"
+    },
+    {
+      "ThisCard": {
+        "Name": "Мертвец",
+        "ImdbID": "0112817",
+        "ImdbURL": "http://www.imdb.com/title/tt0112817",
+        "Year": "1995",
+        "Genre": "вестерн, притча",
+        "Director": "Джим Джармуш",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%80%D1%82%D0%B2%D0%B5%D1%86_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 61,
+        "Rome": "I",
+        "DiskFolder": "0A61"
+      },
+      "Id": "deac2d00-acff-4920-ad63-38e4bdcab44a"
+    },
+    {
+      "ThisCard": {
+        "Name": "Джанго освобождённый",
+        "ImdbID": "1853728",
+        "ImdbURL": "http://www.imdb.com/title/tt1853728",
+        "Year": "2012",
+        "Genre": "спагетти-вестерн, blaxploitation, комедия",
+        "Director": "Квентин Тарантино",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%94%D0%B6%D0%B0%D0%BD%D0%B3%D0%BE_%D0%BE%D1%81%D0%B2%D0%BE%D0%B1%D0%BE%D0%B6%D0%B4%D1%91%D0%BD%D0%BD%D1%8B%D0%B9"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 61,
+        "Rome": "II",
+        "DiskFolder": "0A61"
+      },
+      "Id": "304c5a9f-67fe-487f-9df1-428c103cb626"
+    },
+    {
+      "ThisCard": {
+        "Name": "Два брата",
+        "ImdbID": "0338512",
+        "ImdbURL": "http://www.imdb.com/title/tt0338512",
+        "Year": "",
+        "Genre": "приключенческий фильм драма семейный фильм",
+        "Director": "Жан-Жак Анно",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%B0_%D0%B1%D1%80%D0%B0%D1%82%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2004)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 61,
+        "Rome": "III",
+        "DiskFolder": "0A61"
+      },
+      "Id": "3db86ee7-2fe0-4ae1-a2ef-fabc2675a8e0"
+    },
+    {
+      "ThisCard": {
+        "Name": "Мед в голове",
+        "ImdbID": "3488462",
+        "ImdbURL": "http://www.imdb.com/title/tt3488462",
+        "Year": "2014",
+        "Genre": "трагикомедия",
+        "Director": "Тиль Швайгер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9C%D1%91%D0%B4_%D0%B2_%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%B5"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 61,
+        "Rome": "IV",
+        "DiskFolder": "0A61"
+      },
+      "Id": "40a93ea4-04fa-4d12-bbf9-2f450c479cff"
+    },
+    {
+      "ThisCard": {
+        "Name": "Поезд на Юму",
+        "ImdbID": "0381849",
+        "ImdbURL": "http://www.imdb.com/title/tt0381849",
+        "Year": "2007",
+        "Genre": "вестерн, боевик",
+        "Director": "Джеймс Мэнголд",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B5%D0%B7%D0%B4_%D0%BD%D0%B0_%D0%AE%D0%BC%D1%83"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 61,
+        "Rome": "V",
+        "DiskFolder": "0A61"
+      },
+      "Id": "ccd0015b-1a71-48b2-97f0-cacc4da01017"
+    },
+    {
+      "ThisCard": {
+        "Name": "В диких условиях",
+        "ImdbID": "0758758",
+        "ImdbURL": "http://www.imdb.com/title/tt0758758",
+        "Year": "2007",
+        "Genre": "драматический роуд-муви",
+        "Director": "Шон Пенн",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%92_%D0%B4%D0%B8%D0%BA%D0%B8%D1%85_%D1%83%D1%81%D0%BB%D0%BE%D0%B2%D0%B8%D1%8F%D1%85"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 62,
+        "Rome": "I",
+        "DiskFolder": "0A62"
+      },
+      "Id": "f9097857-6e70-4dcc-b2f4-be1ba05de7d5"
+    },
+    {
+      "ThisCard": {
+        "Name": "Железная хватка",
+        "ImdbID": "1403865",
+        "ImdbURL": "http://www.imdb.com/title/tt1403865",
+        "Year": "2010",
+        "Genre": "вестерн",
+        "Director": "Джоэл Коэн Итан Коэн",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F_%D1%85%D0%B2%D0%B0%D1%82%D0%BA%D0%B0"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 62,
+        "Rome": "II",
+        "DiskFolder": "0A62"
+      },
+      "Id": "6a341b07-1974-43cd-9dc2-e7b2c94c3f35"
+    },
+    {
+      "ThisCard": {
+        "Name": "Скала",
+        "ImdbID": "0117500",
+        "ImdbURL": "http://www.imdb.com/title/tt0117500",
+        "Year": "1996",
+        "Genre": "боевик",
+        "Director": "Майкл Бэй",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D0%BB%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 62,
+        "Rome": "III",
+        "DiskFolder": "0A62"
+      },
+      "Id": "c4fa998f-b153-4600-b347-6aef0b065843"
+    },
+    {
+      "ThisCard": {
+        "Name": "Семь самураев",
+        "ImdbID": "0047478",
+        "ImdbURL": "http://www.imdb.com/title/tt0047478",
+        "Year": "1954",
+        "Genre": "драма",
+        "Director": "Акира Куросава",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%BC%D1%8C_%D1%81%D0%B0%D0%BC%D1%83%D1%80%D0%B0%D0%B5%D0%B2"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 62,
+        "Rome": "IV",
+        "DiskFolder": "0A62"
+      },
+      "Id": "a8c43f43-bed3-4a60-875e-151345b4d05c"
+    },
+    {
+      "ThisCard": {
+        "Name": "Беглец",
+        "ImdbID": "0106977",
+        "ImdbURL": "http://www.imdb.com/title/tt0106977",
+        "Year": "1993",
+        "Genre": "детектив триллер",
+        "Director": "Эндрю Дэвис",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B3%D0%BB%D0%B5%D1%86_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1993)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 62,
+        "Rome": "V",
+        "DiskFolder": "0A62"
+      },
+      "Id": "2f27c786-e99c-4504-9172-2d349ea295c3"
+    },
+    {
+      "ThisCard": {
+        "Name": "Мэверик",
+        "ImdbID": "0110478",
+        "ImdbURL": "http://www.imdb.com/title/tt0110478",
+        "Year": "1994",
+        "Genre": "вестерн, комедия",
+        "Director": "Ричард Доннер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9C%D1%8D%D0%B2%D0%B5%D1%80%D0%B8%D0%BA_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 63,
+        "Rome": "I",
+        "DiskFolder": "0A63"
+      },
+      "Id": "26661161-5851-46fb-a9d5-75033d6b0390"
+    },
+    {
+      "ThisCard": {
+        "Name": "Правдивая ложь",
+        "ImdbID": "0111503",
+        "ImdbURL": "http://www.imdb.com/title/tt0111503",
+        "Year": "1994",
+        "Genre": "комедийный боевик",
+        "Director": "Джеймс Кэмерон",
+        "WikiURL": "https://ru.wikipedia.org/wiki/Правдивая_ложь"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 63,
+        "Rome": "II",
+        "DiskFolder": "0A63"
+      },
+      "Id": "d06b3900-e809-4144-9732-830b7c4d6adb"
+    },
+    {
+      "ThisCard": {
+        "Name": "Безмолвный гнев",
+        "ImdbID": "0084684",
+        "ImdbURL": "http://www.imdb.com/title/tt0084684",
+        "Year": "1982",
+        "Genre": "фильм ужасов фантастика боевик",
+        "Director": "Майкл Миллер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%B7%D0%BC%D0%BE%D0%BB%D0%B2%D0%BD%D1%8B%D0%B9_%D0%B3%D0%BD%D0%B5%D0%B2"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 63,
+        "Rome": "III",
+        "DiskFolder": "0A63"
+      },
+      "Id": "44ef6bde-1b51-47f5-9968-41d868ab30da"
+    },
+    {
+      "ThisCard": {
+        "Name": "Разборка в Бронксе",
+        "ImdbID": "0113326",
+        "ImdbURL": "http://www.imdb.com/title/tt0113326",
+        "Year": "1995",
+        "Genre": "боевик комедия",
+        "Director": "Стэнли Тонг",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D0%B1%D0%BE%D1%80%D0%BA%D0%B0_%D0%B2_%D0%91%D1%80%D0%BE%D0%BD%D0%BA%D1%81%D0%B5"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 63,
+        "Rome": "IV",
+        "DiskFolder": "0A63"
+      },
+      "Id": "1ea4f7b6-8c2f-4746-b75a-aad480b11762"
+    },
+    {
+      "ThisCard": {
+        "Name": "6-й день",
+        "ImdbID": "0216216",
+        "ImdbURL": "http://www.imdb.com/title/tt0216216",
+        "Year": "2000",
+        "Genre": "киберпанк",
+        "Director": "Роджер Споттисвуд",
+        "WikiURL": "https://ru.wikipedia.org/wiki/6-%D0%B9_%D0%B4%D0%B5%D0%BD%D1%8C"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 64,
+        "Rome": "I",
+        "DiskFolder": "0A64"
+      },
+      "Id": "3ef9957e-6681-4298-a845-03fde7683564"
+    },
+    {
+      "ThisCard": {
+        "Name": "Стой! Или моя мама будет стрелять",
+        "ImdbID": "0105477",
+        "ImdbURL": "http://www.imdb.com/title/tt0105477",
+        "Year": "1992",
+        "Genre": "комедия, семейный фильм, боевик, детектив",
+        "Director": "Роджер Споттисвуд",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%BE%D0%B9!_%D0%98%D0%BB%D0%B8_%D0%BC%D0%BE%D1%8F_%D0%BC%D0%B0%D0%BC%D0%B0_%D0%B1%D1%83%D0%B4%D0%B5%D1%82_%D1%81%D1%82%D1%80%D0%B5%D0%BB%D1%8F%D1%82%D1%8C"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 64,
+        "Rome": "II",
+        "DiskFolder": "0A64"
+      },
+      "Id": "553b616d-2c19-4d48-9420-cc701e6ec6fe"
+    },
+    {
+      "ThisCard": {
+        "Name": "Мистер Крутой",
+        "ImdbID": "0117786",
+        "ImdbURL": "http://www.imdb.com/title/tt0117786",
+        "Year": "1996",
+        "Genre": "криминальный фильм боевик комедия",
+        "Director": "Саммо Хун",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D1%81%D1%82%D0%B5%D1%80_%D0%9A%D1%80%D1%83%D1%82%D0%BE%D0%B9"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 64,
+        "Rome": "III",
+        "DiskFolder": "0A64"
+      },
+      "Id": "4116364f-4693-4cac-b8e3-4bd670b4cd49"
+    },
+    {
+      "ThisCard": {
+        "Name": "Война Логана: Связанный честью",
+        "ImdbID": "0176943",
+        "ImdbURL": "http://www.imdb.com/title/tt0176943",
+        "Year": "1998",
+        "Genre": "боевик драма",
+        "Director": "Майкл Прис",
+        "WikiURL": "https://ru.wikipedia.org/wiki/Война_Логана"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 64,
+        "Rome": "IV",
+        "DiskFolder": "0A64"
+      },
+      "Id": "e83fc319-20d4-4ef7-b649-73d160122729"
+    },
+    {
+      "ThisCard": {
+        "Name": "Стиратель",
+        "ImdbID": "0116213",
+        "ImdbURL": "http://www.imdb.com/title/tt0116213",
+        "Year": "1996",
+        "Genre": "триллер, боевик",
+        "Director": "Чак Рассел",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B8%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 65,
+        "Rome": "I",
+        "DiskFolder": "0A65"
+      },
+      "Id": "83e16801-06ec-4ae5-8a87-a257b5984aaf"
+    },
+    {
+      "ThisCard": {
+        "Name": "Порождение ада",
+        "ImdbID": "0107101",
+        "ImdbURL": "http://www.imdb.com/title/tt0107101",
+        "Year": "1994",
+        "Genre": "Боевик, триллер",
+        "Director": "Аарон Норрис",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D1%80%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B0%D0%B4%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1994)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 65,
+        "Rome": "II",
+        "DiskFolder": "0A65"
+      },
+      "Id": "3a5581dd-e06a-420e-ac8e-860795b74ad4"
+    },
+    {
+      "ThisCard": {
+        "Name": "Детоксикация",
+        "ImdbID": "0160184",
+        "ImdbURL": "http://www.imdb.com/title/tt0160184",
+        "Year": "2002",
+        "Genre": "криминальный фильм фильм ужасов",
+        "Director": "Джим Гиллеспи",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%82%D0%BE%D0%BA%D1%81%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 65,
+        "Rome": "III",
+        "DiskFolder": "0A65"
+      },
+      "Id": "d96d6850-a9ce-40fa-89a0-ccd49068628b"
+    },
+    {
+      "ThisCard": {
+        "Name": "Танцующий с волками",
+        "ImdbID": "0099348",
+        "ImdbURL": "http://www.imdb.com/title/tt0099348",
+        "Year": "1990",
+        "Genre": "вестерн, драма, приключения",
+        "Director": "Кевин Костнер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BD%D1%86%D1%83%D1%8E%D1%89%D0%B8%D0%B9_%D1%81_%D0%B2%D0%BE%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 66,
+        "Rome": "I",
+        "DiskFolder": "0A66"
+      },
+      "Id": "11e67b62-ae1e-41ce-93a2-3a46d30ff15b"
+    },
+    {
+      "ThisCard": {
+        "Name": "Мошенник",
+        "ImdbID": "0054997",
+        "ImdbURL": "http://www.imdb.com/title/tt0054997",
+        "Year": "1961",
+        "Genre": "драма",
+        "Director": "Роберт Россен",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1961)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 67,
+        "Rome": "I",
+        "DiskFolder": "0A67"
+      },
+      "Id": "91342613-d431-45c0-87c4-168c8bf098e9"
+    },
+    {
+      "ThisCard": {
+        "Name": "На западном фронте без перемен",
+        "ImdbID": "0020629",
+        "ImdbURL": "http://www.imdb.com/title/tt0020629",
+        "Year": "1930",
+        "Genre": "военная драма",
+        "Director": "Льюис Майлстоун",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0_%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4%D0%BD%D0%BE%D0%BC_%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5_%D0%B1%D0%B5%D0%B7_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1930)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 67,
+        "Rome": "II",
+        "DiskFolder": "0A67"
+      },
+      "Id": "9256c8fd-b2ea-4582-bc1d-67254df0d65f"
+    },
+    {
+      "ThisCard": {
+        "Name": "Битва за Алжир",
+        "ImdbID": "0058946",
+        "ImdbURL": "http://www.imdb.com/title/tt0058946",
+        "Year": "1966",
+        "Genre": "драма исторический",
+        "Director": "Джилло Понтекорво",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%B7%D0%B0_%D0%90%D0%BB%D0%B6%D0%B8%D1%80"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 67,
+        "Rome": "III",
+        "DiskFolder": "0A67"
+      },
+      "Id": "9edec03f-5304-413f-b73f-d75b4899423b"
+    },
+    {
+      "ThisCard": {
+        "Name": "Ип Ман",
+        "ImdbID": "1220719",
+        "ImdbURL": "http://www.imdb.com/title/tt1220719",
+        "Year": "2008",
+        "Genre": "боевик драма биография, история",
+        "Director": "Уилсон Ип",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%98%D0%BF_%D0%9C%D0%B0%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 67,
+        "Rome": "IV",
+        "DiskFolder": "0A67"
+      },
+      "Id": "cd38d191-df3e-45bd-9f49-b805faf81c9b"
+    },
+    {
+      "ThisCard": {
+        "Name": "Эд Вуд",
+        "ImdbID": "0109707",
+        "ImdbURL": "http://www.imdb.com/title/tt0109707",
+        "Year": "1994",
+        "Genre": "трагикомедийный байопик",
+        "Director": "Тим Бёртон",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%AD%D0%B4_%D0%92%D1%83%D0%B4_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 68,
+        "Rome": "I",
+        "DiskFolder": "0A68"
+      },
+      "Id": "1875786b-fbd2-4129-aeba-ba8a368d93b1"
+    },
+    {
+      "ThisCard": {
+        "Name": "Торжество",
+        "ImdbID": "0154420",
+        "ImdbURL": "http://www.imdb.com/title/tt0154420",
+        "Year": "1998",
+        "Genre": "драма",
+        "Director": "Томас Винтерберг",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A2%D0%BE%D1%80%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 68,
+        "Rome": "II",
+        "DiskFolder": "0A68"
+      },
+      "Id": "a2ae10f1-d6ae-4e20-b33f-82530c2cc164"
+    },
+    {
+      "ThisCard": {
+        "Name": "Филадельфийская история",
+        "ImdbID": "0032904",
+        "ImdbURL": "http://www.imdb.com/title/tt0032904",
+        "Year": "1940",
+        "Genre": "романтическая комедия / мелодрама",
+        "Director": "Джордж Кьюкор",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 68,
+        "Rome": "III",
+        "DiskFolder": "0A68"
+      },
+      "Id": "e2bdaf3e-b8e7-4bc1-9352-982644b44eda"
+    },
+    {
+      "ThisCard": {
+        "Name": "Трамвай «Желание»",
+        "ImdbID": "0044081",
+        "ImdbURL": "http://www.imdb.com/title/tt0044081",
+        "Year": "1951",
+        "Genre": "драма",
+        "Director": "Элиа Казан",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BC%D0%B2%D0%B0%D0%B9_%C2%AB%D0%96%D0%B5%D0%BB%D0%B0%D0%BD%D0%B8%D0%B5%C2%BB_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1951)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 68,
+        "Rome": "IV",
+        "DiskFolder": "0A68"
+      },
+      "Id": "231eda91-a2f1-44f8-b777-8ab8f75860e8"
+    },
+    {
+      "ThisCard": {
+        "Name": "Весна, лето, осень, зима… и снова весна",
+        "ImdbID": "0374546",
+        "ImdbURL": "http://www.imdb.com/title/tt0374546",
+        "Year": "2003",
+        "Genre": "драма",
+        "Director": "Ким Ки Дук",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D1%81%D0%BD%D0%B0,_%D0%BB%D0%B5%D1%82%D0%BE,_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C,_%D0%B7%D0%B8%D0%BC%D0%B0%E2%80%A6_%D0%B8_%D1%81%D0%BD%D0%BE%D0%B2%D0%B0_%D0%B2%D0%B5%D1%81%D0%BD%D0%B0"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 69,
+        "Rome": "I",
+        "DiskFolder": "0A69"
+      },
+      "Id": "a9fa8898-4953-45ba-8d36-a9e4a392f249"
+    },
+    {
+      "ThisCard": {
+        "Name": "Харви",
+        "ImdbID": "0042546",
+        "ImdbURL": "http://www.imdb.com/title/tt0042546",
+        "Year": "1950",
+        "Genre": "эксцентрическая комедия",
+        "Director": "Генри Костер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D1%80%D0%B2%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 69,
+        "Rome": "II",
+        "DiskFolder": "0A69"
+      },
+      "Id": "700a0415-6a7b-4b26-880d-36658a789b1d"
+    },
+    {
+      "ThisCard": {
+        "Name": "Паттон",
+        "ImdbID": "0066206",
+        "ImdbURL": "http://www.imdb.com/title/tt0066206",
+        "Year": "1970",
+        "Genre": "драма военный фильм",
+        "Director": "Франклин Шеффнер",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D1%82%D1%82%D0%BE%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 69,
+        "Rome": "III",
+        "DiskFolder": "0A69"
+      },
+      "Id": "b66d5e56-c6de-411d-80a4-f1c04be0e9aa"
+    },
+    {
+      "ThisCard": {
+        "Name": "Его девушка Пятница",
+        "ImdbID": "0032599",
+        "ImdbURL": "http://www.imdb.com/title/tt0032599",
+        "Year": "1940",
+        "Genre": "бурлескная комедия",
+        "Director": "Говард Хоукс",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%95%D0%B3%D0%BE_%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B0_%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 69,
+        "Rome": "IV",
+        "DiskFolder": "0A69"
+      },
+      "Id": "22043438-370d-4411-86af-ab8f315cf03c"
+    },
+    {
+      "ThisCard": {
+        "Name": "Изгоняющий дьявола",
+        "ImdbID": "0070047",
+        "ImdbURL": "http://www.imdb.com/title/tt0070047",
+        "Year": "1973",
+        "Genre": "триллер / фильм ужасов",
+        "Director": "Уильям Фридкин",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D0%B3%D0%BE%D0%BD%D1%8F%D1%8E%D1%89%D0%B8%D0%B9_%D0%B4%D1%8C%D1%8F%D0%B2%D0%BE%D0%BB%D0%B0"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 69,
+        "Rome": "V",
+        "DiskFolder": "0A69"
+      },
+      "Id": "3c0ac1e8-56c6-4ee9-b77b-21d1f091e3cb"
+    },
+    {
+      "ThisCard": {
+        "Name": "Ночи Кабирии",
+        "ImdbID": "0050783",
+        "ImdbURL": "http://www.imdb.com/title/tt0050783",
+        "Year": "1957",
+        "Genre": "драма",
+        "Director": "Федерико Феллини",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D1%87%D0%B8_%D0%9A%D0%B0%D0%B1%D0%B8%D1%80%D0%B8%D0%B8"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 70,
+        "Rome": "I",
+        "DiskFolder": "0A70"
+      },
+      "Id": "7379073c-90bd-42b9-812d-487b2a3e3f18"
+    },
+    {
+      "ThisCard": {
+        "Name": "Вспомнить всё",
+        "ImdbID": "0100802",
+        "ImdbURL": "http://www.imdb.com/title/tt0100802",
+        "Year": "1990",
+        "Genre": "фантастический боевик, приключенческий фильм",
+        "Director": "Пол Верховен",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%92%D1%81%D0%BF%D0%BE%D0%BC%D0%BD%D0%B8%D1%82%D1%8C_%D0%B2%D1%81%D1%91_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1990)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 70,
+        "Rome": "II",
+        "DiskFolder": "0A70"
+      },
+      "Id": "59d30a67-afda-458e-ab88-5c36b9c28efb"
+    },
+    {
+      "ThisCard": {
+        "Name": "Разрушитель",
+        "ImdbID": "0106697",
+        "ImdbURL": "http://www.imdb.com/title/tt0106697",
+        "Year": "1993",
+        "Genre": "фантастический боевик Утопия",
+        "Director": "Марко Брамбилла",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A0%D0%B0%D0%B7%D1%80%D1%83%D1%88%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 70,
+        "Rome": "III",
+        "DiskFolder": "0A70"
+      },
+      "Id": "1f096e84-6676-4cc4-b69b-05114e0348e0"
+    },
+    {
+      "ThisCard": {
+        "Name": "РоГоПаГ",
+        "ImdbID": "0056171",
+        "ImdbURL": "http://www.imdb.com/title/tt0056171",
+        "Year": "",
+        "Genre": "драма",
+        "Director": "Роберто Росселлини Жан-Люк Годар Пьер Паоло Пазолини Уго Грегоретти",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%93%D0%BE%D0%9F%D0%B0%D0%93"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 70,
+        "Rome": "IV",
+        "DiskFolder": "0A70"
+      },
+      "Id": "25c94a02-5f42-4b0e-bd40-cc54512b0949"
+    },
+    {
+      "ThisCard": {
+        "Name": "Пятница, 13-е",
+        "ImdbID": "0080761",
+        "ImdbURL": "http://www.imdb.com/title/tt0080761",
+        "Year": "198091980",
+        "Genre": "фильм ужасов, слэшер",
+        "Director": "Шон Каннингем",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9F%D1%8F%D1%82%D0%BD%D0%B8%D1%86%D0%B0,_13-%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1980)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 71,
+        "Rome": "I",
+        "DiskFolder": "0A71"
+      },
+      "Id": "9c62a916-b1ba-4895-a911-df7631c81784"
+    },
+    {
+      "ThisCard": {
+        "Name": "Хэллоуин",
+        "ImdbID": "0077651",
+        "ImdbURL": "http://www.imdb.com/title/tt0077651",
+        "Year": "2519787619798",
+        "Genre": "фильм ужасов, слэшер",
+        "Director": "Джон Карпентер[1][2][3][4][5][6]",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A5%D1%8D%D0%BB%D0%BB%D0%BE%D1%83%D0%B8%D0%BD_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 71,
+        "Rome": "II",
+        "DiskFolder": "0A71"
+      },
+      "Id": "93962c10-e67d-4514-9d97-253e73fde19e"
+    },
+    {
+      "ThisCard": {
+        "Name": "Мумия",
+        "ImdbID": "0120616",
+        "ImdbURL": "http://www.imdb.com/title/tt0120616",
+        "Year": "1999",
+        "Genre": "боевик приключения фэнтези",
+        "Director": "Стивен Соммерс",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9C%D1%83%D0%BC%D0%B8%D1%8F_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1999)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 71,
+        "Rome": "III",
+        "DiskFolder": "0A71"
+      },
+      "Id": "e9c693d6-373f-41d4-b94c-7e2adadba209"
+    },
+    {
+      "ThisCard": {
+        "Name": "Затащи меня в Ад",
+        "ImdbID": "1127180",
+        "ImdbURL": "http://www.imdb.com/title/tt1127180",
+        "Year": "2009",
+        "Genre": "Фильм ужасов мистический фильм триллер чёрная комедия",
+        "Director": "Сэм Рэйми",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D1%82%D0%B0%D1%89%D0%B8_%D0%BC%D0%B5%D0%BD%D1%8F_%D0%B2_%D0%B0%D0%B4"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 71,
+        "Rome": "IV",
+        "DiskFolder": "0A71"
+      },
+      "Id": "54066bae-53d8-4de8-8a7e-bd57b20276de"
+    },
+    {
+      "ThisCard": {
+        "Name": "Киборг",
+        "ImdbID": "0097138",
+        "ImdbURL": "http://www.imdb.com/title/tt0097138",
+        "Year": "1989",
+        "Genre": "Боевик Кинофантастика Постапокалиптика Триллер",
+        "Director": "Альберт Пьюн",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D0%B1%D0%BE%D1%80%D0%B3_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 72,
+        "Rome": "I",
+        "DiskFolder": "0A72"
+      },
+      "Id": "90eb6335-0d14-4c89-bd71-83dbe47e1561"
+    },
+    {
+      "ThisCard": {
+        "Name": "Инферно",
+        "ImdbID": "0139151",
+        "ImdbURL": "http://www.imdb.com/title/tt0139151",
+        "Year": "1999",
+        "Genre": "боевик криминальный фильм триллер",
+        "Director": "Джон Эдвилдсен",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D1%84%D0%B5%D1%80%D0%BD%D0%BE_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_1999)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 72,
+        "Rome": "II",
+        "DiskFolder": "0A72"
+      },
+      "Id": "1e11f445-22d3-461e-a5fd-aead31db0020"
+    },
+    {
+      "ThisCard": {
+        "Name": "Апачи",
+        "ImdbID": "0069725",
+        "ImdbURL": "http://www.imdb.com/title/tt0069725",
+        "Year": "1974",
+        "Genre": "вестерн",
+        "Director": "Готтфрид Колдитц",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%90%D0%BF%D0%B0%D1%87%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 73,
+        "Rome": "I",
+        "DiskFolder": "0A73"
+      },
+      "Id": "819aeb85-0362-4de2-a799-3ebd747a853a"
+    },
+    {
+      "ThisCard": {
+        "Name": "Чингачгук — Большой Змей",
+        "ImdbID": "0202832",
+        "ImdbURL": "http://www.imdb.com/title/tt0202832",
+        "Year": "1967",
+        "Genre": "вестерн, приключение",
+        "Director": "Рихард Грошопп",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A7%D0%B8%D0%BD%D0%B3%D0%B0%D1%87%D0%B3%D1%83%D0%BA_%E2%80%94_%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%97%D0%BC%D0%B5%D0%B9"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 73,
+        "Rome": "II",
+        "DiskFolder": "0A73"
+      },
+      "Id": "09b66e1c-0316-4103-9f05-c9cfc3f018fd"
+    },
+    {
+      "ThisCard": {
+        "Name": "Сыновья Большой Медведицы",
+        "ImdbID": "0061057",
+        "ImdbURL": "http://www.imdb.com/title/tt0061057",
+        "Year": "1966",
+        "Genre": "вестерн",
+        "Director": "Йозеф Мах",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A1%D1%8B%D0%BD%D0%BE%D0%B2%D1%8C%D1%8F_%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B8%D1%86%D1%8B"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 73,
+        "Rome": "III",
+        "DiskFolder": "0A73"
+      },
+      "Id": "2f45afd9-5f59-47d3-8161-f35bdac1afbf"
+    },
+    {
+      "ThisCard": {
+        "Name": "Текумзе",
+        "ImdbID": "0069353",
+        "ImdbURL": "http://www.imdb.com/title/tt0069353",
+        "Year": "1972",
+        "Genre": "вестерн",
+        "Director": "Ханс Крацерт",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BA%D1%83%D0%BC%D0%B7%D0%B5"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 73,
+        "Rome": "IV",
+        "DiskFolder": "0A73"
+      },
+      "Id": "f73a72ae-b357-48e6-91ac-e487daea4650"
+    },
+    {
+      "ThisCard": {
+        "Name": "Сигналы — Приключения в космосе",
+        "ImdbID": "0066379",
+        "ImdbURL": "http://www.imdb.com/title/tt0066379",
+        "Year": "1970",
+        "Genre": "фантастический фильм, приключенческий",
+        "Director": "Готтфрид Кольдитц",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D1%8B_%E2%80%94_%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%BA%D0%BE%D1%81%D0%BC%D0%BE%D1%81%D0%B5"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 73,
+        "Rome": "V",
+        "DiskFolder": "0A73"
+      },
+      "Id": "29418d6f-757d-4c4e-8912-82c7e33390f9"
+    },
+    {
+      "ThisCard": {
+        "Name": "Ульзана",
+        "ImdbID": "0072336",
+        "ImdbURL": "http://www.imdb.com/title/tt0072336",
+        "Year": "1974",
+        "Genre": "вестерн",
+        "Director": "Готтфрид Колдитц",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A3%D0%BB%D1%8C%D0%B7%D0%B0%D0%BD%D0%B0"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 73,
+        "Rome": "VI",
+        "DiskFolder": "0A73"
+      },
+      "Id": "a897404a-6332-4b7d-8cd5-c97857788167"
+    },
+    {
+      "ThisCard": {
+        "Name": "Оцеола",
+        "ImdbID": "0070493",
+        "ImdbURL": "http://www.imdb.com/title/tt0070493",
+        "Year": "1971",
+        "Genre": "вестерн",
+        "Director": "Конрад Петцольд",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9E%D1%86%D0%B5%D0%BE%D0%BB%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 74,
+        "Rome": "I",
+        "DiskFolder": "0A74"
+      },
+      "Id": "fc888833-daa8-4877-bc9f-6e2f6f8f09f4"
+    },
+    {
+      "ThisCard": {
+        "Name": "Белые волки",
+        "ImdbID": "0063798",
+        "ImdbURL": "http://www.imdb.com/title/tt0063798",
+        "Year": "1969",
+        "Genre": "вестерн, драма, исторический фильм",
+        "Director": "Конрад Петцольд",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%91%D0%B5%D0%BB%D1%8B%D0%B5_%D0%B2%D0%BE%D0%BB%D0%BA%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 74,
+        "Rome": "II",
+        "DiskFolder": "0A74"
+      },
+      "Id": "10ad4523-36ce-489f-a6d7-e44e9c3ee333"
+    },
+    {
+      "ThisCard": {
+        "Name": "Вождь Белое Перо",
+        "ImdbID": "0086260",
+        "ImdbURL": "http://www.imdb.com/title/tt0086260",
+        "Year": "1983",
+        "Genre": "вестерн",
+        "Director": "Конрад Петцольд Жамьянгийн Бунтар",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B6%D0%B4%D1%8C_%D0%91%D0%B5%D0%BB%D0%BE%D0%B5_%D0%9F%D0%B5%D1%80%D0%BE"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 74,
+        "Rome": "III",
+        "DiskFolder": "0A74"
+      },
+      "Id": "d8f00ea5-a830-4899-8f0b-d52cc3376a72"
+    },
+    {
+      "ThisCard": {
+        "Name": "След Сокола",
+        "ImdbID": "0063638",
+        "ImdbURL": "http://www.imdb.com/title/tt0063638",
+        "Year": "1968",
+        "Genre": "вестерн",
+        "Director": "Готтфрид Кольдитц",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%B5%D0%B4_%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 74,
+        "Rome": "IV",
+        "DiskFolder": "0A74"
+      },
+      "Id": "3f85dbce-150f-439f-aed0-f5a1bb1f0500"
+    },
+    {
+      "ThisCard": {
+        "Name": "Наверное, боги сошли с ума",
+        "ImdbID": "0080801",
+        "ImdbURL": "http://www.imdb.com/title/tt0080801",
+        "Year": "1980",
+        "Genre": "комедия",
+        "Director": "Джэми Уйс",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B5,_%D0%B1%D0%BE%D0%B3%D0%B8_%D1%81%D0%BE%D1%88%D0%BB%D0%B8_%D1%81_%D1%83%D0%BC%D0%B0"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 75,
+        "Rome": "I",
+        "DiskFolder": "0A75"
+      },
+      "Id": "546ed84a-497c-46a8-8406-4d4154bbeafe"
+    },
+    {
+      "ThisCard": {
+        "Name": "Изгнание",
+        "ImdbID": "0488905",
+        "ImdbURL": "http://www.imdb.com/title/tt0488905",
+        "Year": "2007",
+        "Genre": "психологическая драма",
+        "Director": "Андрей Звягинцев",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D0%B3%D0%BD%D0%B0%D0%BD%D0%B8%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2007)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 75,
+        "Rome": "II",
+        "DiskFolder": "0A75"
+      },
+      "Id": "f6d9f3d3-0881-41d8-b2a4-03be92a3aaaa"
+    },
+    {
+      "ThisCard": {
+        "Name": "Елена",
+        "ImdbID": "1925421",
+        "ImdbURL": "http://www.imdb.com/title/tt1925421",
+        "Year": "2011",
+        "Genre": "драма",
+        "Director": "Андрей Звягинцев",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2011)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 75,
+        "Rome": "III",
+        "DiskFolder": "0A75"
+      },
+      "Id": "11a9b55d-37da-4c02-a293-5e38de60b396"
+    },
+    {
+      "ThisCard": {
+        "Name": "Возвращение",
+        "ImdbID": "0376968",
+        "ImdbURL": "http://www.imdb.com/title/tt0376968",
+        "Year": "2003",
+        "Genre": "драма",
+        "Director": "Андрей Звягинцев",
+        "WikiURL": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%B7%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC,_2003,_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F)"
+      },
+      "ThisFolder": {
+        "MotherFolder": "D:\\filmData",
+        "Letter": "A",
+        "Fdigit": 0,
+        "Sdigit": 75,
+        "Rome": "IV",
+        "DiskFolder": "0A75"
+      },
+      "Id": "2690aaa6-9e0b-431b-8e50-494c0584268e"
+    }
+  ]
+}
