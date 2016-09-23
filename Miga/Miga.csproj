@@ -84,7 +84,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\MyWikiParser\MyWikiParser\MyWikiParser.csproj">
+    <ProjectReference Include="..\..\RuFilmWikiParser\MyWikiParser\MyWikiParser.csproj">
       <Project>{bba3f633-0cab-42e3-a932-3dd1dc228afe}</Project>
       <Name>MyWikiParser</Name>
     </ProjectReference>

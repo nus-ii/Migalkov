@@ -11,8 +11,6 @@ C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\Migalk
 C:\GitHub\Migalkov\MigalkovDataModel\bin\Debug\MigalkovDataModel.dll
 C:\GitHub\Migalkov\MigalkovDataModel\bin\Debug\MigalkovDataModel.pdb
 C:\GitHub\Migalkov\MigalkovDataModel\bin\Debug\Newtonsoft.Json.dll
-C:\GitHub\Migalkov\MigalkovDataModel\bin\Debug\MyWikiParser.pdb
 C:\GitHub\Migalkov\MigalkovDataModel\bin\Debug\Newtonsoft.Json.xml
-C:\GitHub\Migalkov\MigalkovDataModel\obj\Debug\MigalkovDataModel.csprojResolveAssemblyReference.cache
 C:\GitHub\Migalkov\MigalkovDataModel\obj\Debug\MigalkovDataModel.dll
 C:\GitHub\Migalkov\MigalkovDataModel\obj\Debug\MigalkovDataModel.pdb

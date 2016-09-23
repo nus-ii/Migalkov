@@ -16,9 +16,9 @@ namespace FilmLib
 {
     public partial class Form1 : Form
     {
-        Newtonsoft.Json.Linq.JArray allFilm;
-        Newtonsoft.Json.Linq.JObject selectedFilm;
-        Newtonsoft.Json.Linq.JObject[] Films;
+        JArray allFilm;
+        JObject selectedFilm;
+        JObject[] Films;
         int selectedFilmNum;
 
         Settings set;
@@ -28,70 +28,72 @@ namespace FilmLib
 
         public Form1()
         {
-            InitializeComponent(); 
+            InitializeComponent();
             set = new Settings();
 
+            //TODO:Изменить
             exeDrive = "D";//Application.ExecutablePath[0].ToString();
-            var d = JObject.Parse(File.ReadAllText(string.Format("{0}:\\filmList.json",exeDrive)));
+            var d = JObject.Parse(File.ReadAllText(string.Format("{0}:\\filmList.json", exeDrive)));
             var s = JObject.Parse(File.ReadAllText(string.Format("{0}:\\migasettings.json", exeDrive)));
             filmFolder = s.Value<string>("filmfolder");
-           
+
             allFilm = d["data"] as JArray;
             radioButton5.Checked = true;
         }
 
-        //private void textBox1_TextChanged(object sender, EventArgs e)
-        //{
-
-        //}
-
-        private void SelecFilmByGenre(bool minusFilter=true,string minusFilterValue="мульт")
+        /// <summary>
+        /// Выбор фильмов соответсвующих выбранному жанру
+        /// </summary>
+        /// <param name="minusFilter">Использование отрицательного фильтра</param>
+        /// <param name="minusFilterValue">Значение жанра для отрицательного фильтра</param>
+        private void SelecFilmByGenre(bool minusFilter = true, string minusFilterValue = "мульт")
         {
-            JArray temp=new JArray();
+            JArray tempFileList = new JArray();
             JObject tempObj = new JObject();
-            string genre="";
+            string genre = "";
 
-            foreach(var j in allFilm)
+            foreach (var filmItem in allFilm)
             {
-                try
+                tempObj = filmItem["ThisCard"] as JObject;
+                genre = tempObj.Value<string>("Genre").ToLower();
+                if (genre.Contains(selectedGenre) || string.IsNullOrEmpty(selectedGenre))
                 {
-                    tempObj = j["ThisCard"] as Newtonsoft.Json.Linq.JObject;
-                    genre = tempObj.Value<string>("Genre").ToLower();
-                    if(genre.Contains(selectedGenre)||string.IsNullOrEmpty(selectedGenre))
+                    if (minusFilter)
                     {
-                        if (minusFilter)
-                        {
-                            if (!genre.Contains(minusFilterValue))
-                            {
-                                temp.Add(j);
-                            }
-                        }
-                        else
-                        {
-                            temp.Add(j);
-                        }
+                        if (!genre.Contains(minusFilterValue))
+                            tempFileList.Add(filmItem);
                     }
-                }
-                catch
-                {
-                    continue;
+                    else
+                    {
+                        tempFileList.Add(filmItem);
+                    }
                 }
             }
 
+            //Перебрасываем отобранный лист фильмов в массив
+            SetFilms(tempFileList);
+
+            //Установка выбранного фильма
+            SetFirstFilmAsSelected();
+        }
+
+        private void SetFirstFilmAsSelected()
+        {
+            if (Films.Length > 0)
+            {
+                SetSelectedFilms(0);
+                label5.Text = Films.Length.ToString();
+            }
+        }
+
+        private void SetFilms(JArray temp)
+        {
             Films = new JObject[temp.Count];
-
             int u = 0;
-
             foreach (var t in temp)
             {
                 Films[u] = (JObject)t;
                 u++;
-            }
-
-            if(Films.Length>0)
-            {
-                SetSelectedFilms(0);
-                label5.Text = Films.Length.ToString();
             }
         }
 
@@ -101,17 +103,19 @@ namespace FilmLib
             {
                 selectedFilmNum = num;
                 selectedFilm = Films[num];
-                JObject jObject = Films[num];
 
-                var cardObj = jObject["ThisCard"] as JObject;
+                var cardObj = selectedFilm["ThisCard"] as JObject;
                 this.label2.Text = cardObj.Value<string>("Name");
                 this.label7.Text = cardObj.Value<string>("Genre");
                 this.label9.Text = cardObj.Value<string>("Director");
                 this.label12.Text = cardObj.Value<string>("Year");
-                this.label14.Text = cardObj.Value<string>("ImdbID");             
+                this.label14.Text = cardObj.Value<string>("ImdbID");
+
+                var folderObj = selectedFilm["ThisFolder"] as JObject;
+                this.label16.Text = string.Format("{0}{1}",folderObj.Value<string>("DiskFolder"), folderObj.Value<string>("Rome"));
             }
             else
-            {                
+            {
                 if (Films.Length > 0)
                 {
                     SetSelectedFilms(0);
@@ -119,7 +123,7 @@ namespace FilmLib
                 else
                 {
                     MessageBox.Show("Фильмов в данном жанре нет в коллекции.");
-                }               
+                }
             }
         }
 
@@ -155,7 +159,7 @@ namespace FilmLib
 
             SelecFilmByGenre();
         }
-        
+
 
         private void radioButton5_CheckedChanged(object sender, EventArgs e)
         {
@@ -188,8 +192,37 @@ namespace FilmLib
 
             SelecFilmByGenre(false);
         }
+
+        private void radioButton9x_CheckedChanged(object sender, EventArgs e)
+        {
+            if (radioButton9.Checked)
+                selectedGenre = "вест";
+
+            SelecFilmByGenre();
+        }
+
+        private void radioButton10_CheckedChanged(object sender, EventArgs e)
+        {
+            if (radioButton10.Checked)
+                selectedGenre = "драм";
+
+            SelecFilmByGenre();
+        }
+
+        private void rb111_CheckedChanged(object sender, EventArgs e)
+        {
+            if (rb111.Checked)
+                selectedGenre = "истор";
+
+            SelecFilmByGenre();
+        }
         #endregion
 
+        /// <summary>
+        /// Кнопка следующий фильм
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button1_Click(object sender, EventArgs e)
         {
             SetSelectedFilms(selectedFilmNum + 1);
@@ -197,7 +230,7 @@ namespace FilmLib
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            var tempObj = selectedFilm["ThisCard"] as Newtonsoft.Json.Linq.JObject;
+            var tempObj = selectedFilm["ThisCard"] as JObject;
             Process.Start(tempObj.Value<string>("WikiURL"));
         }
 
@@ -205,7 +238,7 @@ namespace FilmLib
         {
             try
             {
-                var tempObj = selectedFilm["ThisFolder"] as Newtonsoft.Json.Linq.JObject;
+                var tempObj = selectedFilm["ThisFolder"] as JObject;
                 string l = tempObj.Value<string>("Letter");
                 string f = tempObj.Value<string>("Fdigit");
                 string s = tempObj.Value<string>("Sdigit");
@@ -219,35 +252,6 @@ namespace FilmLib
             {
                 MessageBox.Show("Не удалось открыть папку");
             }
-        }
-
-        private void radioButton10_CheckedChanged(object sender, EventArgs e)
-        {
-            if (radioButton10.Checked)
-                selectedGenre = "драм";
-
-            SelecFilmByGenre();
-        }
-
-        //private void radioButton9_CheckedChanged(object sender, EventArgs e)
-        //{
-
-        //}
-
-        private void radioButton9x_CheckedChanged(object sender, EventArgs e)
-        {
-            if (radioButton9.Checked)
-                selectedGenre = "вест";
-
-            SelecFilmByGenre();
-        }
-
-        private void rb111_CheckedChanged(object sender, EventArgs e)
-        {
-            if (rb111.Checked)
-                selectedGenre = "истор";
-
-            SelecFilmByGenre();
         }
 
         #region Garbage
@@ -309,7 +313,7 @@ namespace FilmLib
         private void label4_Click(object sender, EventArgs e)
         {
 
-        } 
+        }
         #endregion
     }
 }
