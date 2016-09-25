@@ -32,7 +32,7 @@ namespace FilmLib
             set = new Settings();
 
             //TODO:Изменить
-            exeDrive = "D";//Application.ExecutablePath[0].ToString();
+            exeDrive = Application.ExecutablePath[0].ToString();
             var d = JObject.Parse(File.ReadAllText(string.Format("{0}:\\filmList.json", exeDrive)));
             var s = JObject.Parse(File.ReadAllText(string.Format("{0}:\\migasettings.json", exeDrive)));
             filmFolder = s.Value<string>("filmfolder");

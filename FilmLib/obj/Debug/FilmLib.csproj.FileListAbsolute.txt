@@ -18,3 +18,4 @@ C:\GitHub\Migalkov\FilmLib\bin\Debug\Newtonsoft.Json.xml
 C:\GitHub\Migalkov\FilmLib\obj\Debug\FilmLib.Form1.resources
 C:\GitHub\Migalkov\FilmLib\obj\Debug\FilmLib.Properties.Resources.resources
 C:\GitHub\Migalkov\FilmLib\obj\Debug\FilmLib.csproj.GenerateResource.Cache
+C:\GitHub\Migalkov\FilmLib\obj\Debug\FilmLib.csprojResolveAssemblyReference.cache
