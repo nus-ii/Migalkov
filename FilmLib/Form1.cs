@@ -56,6 +56,7 @@ namespace FilmLib
             {
                 tempObj = filmItem["ThisCard"] as JObject;
                 genre = tempObj.Value<string>("Genre").ToLower();
+
                 if (genre.Contains(selectedGenre) || string.IsNullOrEmpty(selectedGenre))
                 {
                     if (minusFilter)

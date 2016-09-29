@@ -14,4 +14,3 @@ C:\GitHub\Migalkov\MigalkovDataModel\bin\Debug\Newtonsoft.Json.dll
 C:\GitHub\Migalkov\MigalkovDataModel\bin\Debug\Newtonsoft.Json.xml
 C:\GitHub\Migalkov\MigalkovDataModel\obj\Debug\MigalkovDataModel.dll
 C:\GitHub\Migalkov\MigalkovDataModel\obj\Debug\MigalkovDataModel.pdb
-C:\GitHub\Migalkov\MigalkovDataModel\obj\Debug\MigalkovDataModel.csprojResolveAssemblyReference.cache
