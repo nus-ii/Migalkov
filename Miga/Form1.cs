@@ -87,9 +87,9 @@ namespace Miga
                     this.button6.Enabled = true;
                 }
             }
-            catch
+            catch(Exception ex)
             {
-                MessageBox.Show("Неудалось получить данные.");
+                MessageBox.Show(string.Format("Неудалось получить данные. {0} {1}",ex.Message,ex.StackTrace));
             }
 
         }

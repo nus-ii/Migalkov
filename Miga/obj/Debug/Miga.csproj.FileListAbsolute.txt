@@ -30,3 +30,5 @@ C:\GitHub\Migalkov\Miga\obj\Debug\Miga.Properties.Resources.resources
 C:\GitHub\Migalkov\Miga\obj\Debug\Miga.csproj.GenerateResource.Cache
 C:\GitHub\Migalkov\Miga\obj\Debug\Miga.exe
 C:\GitHub\Migalkov\Miga\obj\Debug\Miga.pdb
+C:\GitHub\Migalkov\Miga\bin\Debug\HtmlAgilityPack.pdb
+C:\GitHub\Migalkov\Miga\bin\Debug\HtmlAgilityPack.xml
