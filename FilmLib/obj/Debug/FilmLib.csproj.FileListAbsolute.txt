@@ -22,3 +22,14 @@ C:\GitHub\Migalkov\FilmLib\obj\Debug\FilmLib.csprojAssemblyReference.cache
 C:\GitHub\Migalkov\FilmLib\obj\Debug\FilmLib.csproj.CoreCompileInputs.cache
 C:\GitHub\Migalkov\FilmLib\obj\Debug\FilmLib.csproj.CopyComplete
 C:\GitHub\Migalkov\FilmLib\obj\Debug\FilmLib.AddMovieForm.resources
+C:\GitHub\Migalkov\FilmLib\bin\Debug\Miga.exe
+C:\GitHub\Migalkov\FilmLib\bin\Debug\MigalkovDataModel.dll
+C:\GitHub\Migalkov\FilmLib\bin\Debug\MyWikiParser.dll
+C:\GitHub\Migalkov\FilmLib\bin\Debug\HtmlAgilityPack.dll
+C:\GitHub\Migalkov\FilmLib\bin\Debug\Miga.pdb
+C:\GitHub\Migalkov\FilmLib\bin\Debug\Miga.exe.config
+C:\GitHub\Migalkov\FilmLib\bin\Debug\MigalkovDataModel.pdb
+C:\GitHub\Migalkov\FilmLib\bin\Debug\MyWikiParser.pdb
+C:\GitHub\Migalkov\FilmLib\bin\Debug\HtmlAgilityPack.pdb
+C:\GitHub\Migalkov\FilmLib\bin\Debug\HtmlAgilityPack.xml
+C:\GitHub\Migalkov\FilmLib\obj\Debug\FilmLib.exe.config

@@ -96,7 +96,12 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\Miga\Miga.csproj">
+      <Project>{10bb7c28-5100-4369-b2cc-3a0273ad0b85}</Project>
+      <Name>Miga</Name>
+    </ProjectReference>
+  </ItemGroup>
   <ItemGroup>
     <Content Include="filmIco.ico" />
     <Content Include="Res\filmIco.png" />

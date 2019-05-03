@@ -11,6 +11,7 @@ using Newtonsoft.Json;
 using System.IO;
 using Newtonsoft.Json.Linq;
 using System.Diagnostics;
+using Miga;
 
 namespace FilmLib
 {
@@ -319,7 +320,7 @@ namespace FilmLib
 
         private void AddMovie_Click(object sender, EventArgs e)
         {
-            var am = new AddMovieForm();
+            var am = new Miga.FormMain();
             am.Show();
         }
     }

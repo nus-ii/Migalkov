@@ -14,7 +14,7 @@ using Newtonsoft.Json;
 
 namespace Miga
 {
-    public partial class Form1 : Form
+    public partial class FormMain : Form
     {
         WikiCard wCard;
         FolderID ID;
@@ -22,7 +22,7 @@ namespace Miga
         //List<FilmEntry> newData;
        
 
-        public Form1()
+        public FormMain()
         {
             InitializeComponent();
             this.button6.Enabled = false;
@@ -75,16 +75,19 @@ namespace Miga
         private void button1_Click(object sender, EventArgs e)
         {
             try
-            {                
-                textBox1.Text = Clipboard.GetData(DataFormats.Text).ToString();
-                var cardTemp = new WikiCard();
-                cardTemp.GetDataFromWiki(textBox1.Text);
-                textBox2.Text = cardTemp.ToString();
-                
-                if (NewCheck(cardTemp) && OldCheck(cardTemp))
+            {
+                if (Clipboard.GetData(DataFormats.Text) != null)
                 {
-                    wCard = cardTemp;                    
-                    this.button6.Enabled = true;
+                    textBox1.Text = Clipboard.GetData(DataFormats.Text).ToString();
+                    var cardTemp = new WikiCard();
+                    cardTemp.GetDataFromWiki(textBox1.Text);
+                    textBox2.Text = cardTemp.ToString();
+
+                    if (NewCheck(cardTemp) && OldCheck(cardTemp))
+                    {
+                        wCard = cardTemp;
+                        this.button6.Enabled = true;
+                    } 
                 }
             }
             catch(Exception ex)
