@@ -25,3 +25,5 @@ C:\GitHub\Migalkov\WikiCardTest\bin\Debug\MyWikiParser.pdb
 C:\GitHub\Migalkov\WikiCardTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
 C:\GitHub\Migalkov\WikiCardTest\obj\Debug\WikiCardTest.dll
 C:\GitHub\Migalkov\WikiCardTest\obj\Debug\WikiCardTest.pdb
+C:\GitHub\Migalkov\WikiCardTest\obj\Debug\WikiCardTest.csprojAssemblyReference.cache
+C:\GitHub\Migalkov\WikiCardTest\obj\Debug\WikiCardTest.csproj.CoreCompileInputs.cache

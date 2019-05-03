@@ -19,3 +19,5 @@ C:\GitHub\Migalkov\TestMigalkovApp\bin\Debug\MigalkovDataModel.pdb
 C:\GitHub\Migalkov\TestMigalkovApp\obj\Debug\TestMigalkovApp.csprojResolveAssemblyReference.cache
 C:\GitHub\Migalkov\TestMigalkovApp\obj\Debug\TestMigalkovApp.exe
 C:\GitHub\Migalkov\TestMigalkovApp\obj\Debug\TestMigalkovApp.pdb
+C:\GitHub\Migalkov\TestMigalkovApp\obj\Debug\TestMigalkovApp.csprojAssemblyReference.cache
+C:\GitHub\Migalkov\TestMigalkovApp\obj\Debug\TestMigalkovApp.csproj.CoreCompileInputs.cache

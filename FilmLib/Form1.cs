@@ -316,5 +316,11 @@ namespace FilmLib
 
         }
         #endregion
+
+        private void AddMovie_Click(object sender, EventArgs e)
+        {
+            var am = new AddMovieForm();
+            am.Show();
+        }
     }
 }

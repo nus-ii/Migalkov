@@ -33,11 +33,11 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="HtmlAgilityPack">
-      <HintPath>..\..\MyWikiParser\MyWikiParser\bin\Debug\HtmlAgilityPack.dll</HintPath>
+    <Reference Include="HtmlAgilityPack, Version=1.11.4.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.11.4\lib\Net45\HtmlAgilityPack.dll</HintPath>
     </Reference>
     <Reference Include="MyWikiParser">
-      <HintPath>..\..\MyWikiParser\MyWikiParser\bin\Debug\MyWikiParser.dll</HintPath>
+      <HintPath>..\..\RuFilmWikiParser\MyWikiParser\bin\Debug\MyWikiParser.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>..\..\..\..\..\..\..\GitHub\ClientReaderQ\ClientReader\bin\Debug\Newtonsoft.Json.dll</HintPath>
@@ -52,6 +52,9 @@
     <Compile Include="FolderID.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="WikiCard.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

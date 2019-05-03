@@ -24,7 +24,6 @@ C:\GitHub\Migalkov\Miga\bin\Debug\HtmlAgilityPack.dll
 C:\GitHub\Migalkov\Miga\bin\Debug\MigalkovDataModel.pdb
 C:\GitHub\Migalkov\Miga\bin\Debug\Newtonsoft.Json.xml
 C:\GitHub\Migalkov\Miga\bin\Debug\MyWikiParser.pdb
-C:\GitHub\Migalkov\Miga\obj\Debug\Miga.csprojResolveAssemblyReference.cache
 C:\GitHub\Migalkov\Miga\obj\Debug\Miga.Form1.resources
 C:\GitHub\Migalkov\Miga\obj\Debug\Miga.Properties.Resources.resources
 C:\GitHub\Migalkov\Miga\obj\Debug\Miga.csproj.GenerateResource.Cache
@@ -32,3 +31,6 @@ C:\GitHub\Migalkov\Miga\obj\Debug\Miga.exe
 C:\GitHub\Migalkov\Miga\obj\Debug\Miga.pdb
 C:\GitHub\Migalkov\Miga\bin\Debug\HtmlAgilityPack.pdb
 C:\GitHub\Migalkov\Miga\bin\Debug\HtmlAgilityPack.xml
+C:\GitHub\Migalkov\Miga\obj\Debug\Miga.csprojAssemblyReference.cache
+C:\GitHub\Migalkov\Miga\obj\Debug\Miga.csproj.CoreCompileInputs.cache
+C:\GitHub\Migalkov\Miga\obj\Debug\Miga.csproj.CopyComplete

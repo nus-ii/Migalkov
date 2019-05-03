@@ -14,3 +14,11 @@ C:\GitHub\Migalkov\MigalkovDataModel\bin\Debug\Newtonsoft.Json.dll
 C:\GitHub\Migalkov\MigalkovDataModel\bin\Debug\Newtonsoft.Json.xml
 C:\GitHub\Migalkov\MigalkovDataModel\obj\Debug\MigalkovDataModel.dll
 C:\GitHub\Migalkov\MigalkovDataModel\obj\Debug\MigalkovDataModel.pdb
+C:\GitHub\Migalkov\MigalkovDataModel\obj\Debug\MigalkovDataModel.csprojAssemblyReference.cache
+C:\GitHub\Migalkov\MigalkovDataModel\obj\Debug\MigalkovDataModel.csproj.CoreCompileInputs.cache
+C:\GitHub\Migalkov\MigalkovDataModel\bin\Debug\HtmlAgilityPack.dll
+C:\GitHub\Migalkov\MigalkovDataModel\bin\Debug\MyWikiParser.dll
+C:\GitHub\Migalkov\MigalkovDataModel\bin\Debug\HtmlAgilityPack.pdb
+C:\GitHub\Migalkov\MigalkovDataModel\bin\Debug\HtmlAgilityPack.xml
+C:\GitHub\Migalkov\MigalkovDataModel\bin\Debug\MyWikiParser.pdb
+C:\GitHub\Migalkov\MigalkovDataModel\obj\Debug\MigalkovDataModel.csproj.CopyComplete
