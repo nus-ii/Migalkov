@@ -6,48 +6,49 @@ using MyWikiParser;
 
 namespace MigalkovDataSpace
 {
-	/// <summary>
-	/// Класс отражает данные о фильме полученные с Википедии
-	/// </summary>
+    /// <summary>
+    /// Класс отражает данные о фильме полученные с Википедии
+    /// </summary>
     public class WikiCard
-	{
-		string _name;
-		string _imdbID;
+    {
+        string _name;
+        string _imdbID;
         string _imdbURL;
         string _year;
         string _genre;
         string _director;
         string _wikiURL;
+        bool _readDataSuccess;
 
-		/// <summary>
-		/// Название фильма
-		/// </summary>
+        /// <summary>
+        /// Название фильма
+        /// </summary>
         public string Name
-		{
-			get
-			{
+        {
+            get
+            {
                 return this._name;
-			}
-			set
-			{
+            }
+            set
+            {
                 this._name = value;
-			}
-		}
+            }
+        }
 
         /// <summary>
         /// Идентификатор фильма на IMDB
         /// </summary>
 		public string ImdbID
-		{
-			get
-			{
+        {
+            get
+            {
                 return this._imdbID;
-			}
-			set
-			{
+            }
+            set
+            {
                 this._imdbID = value;
-			}
-		}
+            }
+        }
 
         /// <summary>
         /// URL на IMDB
@@ -123,6 +124,17 @@ namespace MigalkovDataSpace
                 this._wikiURL = value;
             }
         }
+
+        public bool ReadDataSuccess{
+            get
+            {
+                return _readDataSuccess;
+            }
+            set
+            {
+                _readDataSuccess = value;
+            }
+            }
             
         /// <summary>
         /// Пустой конструтор объекта класса WikiCard
@@ -136,6 +148,7 @@ namespace MigalkovDataSpace
             Genre = "";
             Director = "";
             WikiURL = "";
+            ReadDataSuccess = false;
         }
 
         /// <summary>
@@ -173,16 +186,26 @@ namespace MigalkovDataSpace
             string Genre=this.Genre;
             string Director=this.Director;
             string temp = WikiUrl + "";
+            this.ReadDataSuccess = false;
 
-            WikiParser.GetAllData(WikiUrl, ref ImdbID,ref ImdbURL,ref Name,ref Year,ref Genre, ref Director);
+            try
+            {
+                WikiParser.GetAllData(WikiUrl, ref ImdbID, ref ImdbURL, ref Name, ref Year, ref Genre, ref Director);
 
-            this.Name = Name;
-            this.ImdbURL = ImdbURL;
-            this.ImdbID = ImdbID;
-            this.Year = Year;
-            this.Genre = Genre;
-            this.Director = Director;
-            this.WikiURL = temp;
+                this.Name = Name;
+                this.ImdbURL = ImdbURL;
+                this.ImdbID = ImdbID;
+                this.Year = Year;
+                this.Genre = Genre;
+                this.Director = Director;
+                this.WikiURL = temp;
+                this.ReadDataSuccess = true;
+            }
+            catch (Exception)
+            {
+
+               
+            }
             //return true; //праду говорить легко и приятно
         }
 

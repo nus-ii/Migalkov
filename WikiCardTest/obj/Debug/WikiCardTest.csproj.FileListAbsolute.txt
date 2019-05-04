@@ -10,7 +10,6 @@ C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\WikiCa
 C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\WikiCardTest\obj\Debug\WikiCardTest.csprojResolveAssemblyReference.cache
 C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\WikiCardTest\obj\Debug\WikiCardTest.dll
 C:\Users\Илья\Documents\Visual Studio 2013\Projects\MigalkovDataModel\WikiCardTest\obj\Debug\WikiCardTest.pdb
-C:\GitHub\Migalkov\WikiCardTest\obj\Debug\WikiCardTest.csprojResolveAssemblyReference.cache
 C:\GitHub\Migalkov\WikiCardTest\bin\Debug\WikiCardTest.dll.config
 C:\GitHub\Migalkov\WikiCardTest\bin\Debug\WikiCardTest.dll
 C:\GitHub\Migalkov\WikiCardTest\bin\Debug\WikiCardTest.pdb
@@ -27,3 +26,4 @@ C:\GitHub\Migalkov\WikiCardTest\obj\Debug\WikiCardTest.dll
 C:\GitHub\Migalkov\WikiCardTest\obj\Debug\WikiCardTest.pdb
 C:\GitHub\Migalkov\WikiCardTest\obj\Debug\WikiCardTest.csprojAssemblyReference.cache
 C:\GitHub\Migalkov\WikiCardTest\obj\Debug\WikiCardTest.csproj.CoreCompileInputs.cache
+C:\GitHub\Migalkov\WikiCardTest\obj\Debug\WikiCardTest.csproj.CopyComplete

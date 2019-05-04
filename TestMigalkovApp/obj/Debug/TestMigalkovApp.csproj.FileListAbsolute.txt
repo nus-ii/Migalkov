@@ -16,8 +16,12 @@ C:\GitHub\Migalkov\TestMigalkovApp\bin\Debug\HtmlAgilityPack.dll
 C:\GitHub\Migalkov\TestMigalkovApp\bin\Debug\MigalkovDataModel.dll
 C:\GitHub\Migalkov\TestMigalkovApp\bin\Debug\MyWikiParser.dll
 C:\GitHub\Migalkov\TestMigalkovApp\bin\Debug\MigalkovDataModel.pdb
-C:\GitHub\Migalkov\TestMigalkovApp\obj\Debug\TestMigalkovApp.csprojResolveAssemblyReference.cache
 C:\GitHub\Migalkov\TestMigalkovApp\obj\Debug\TestMigalkovApp.exe
 C:\GitHub\Migalkov\TestMigalkovApp\obj\Debug\TestMigalkovApp.pdb
 C:\GitHub\Migalkov\TestMigalkovApp\obj\Debug\TestMigalkovApp.csprojAssemblyReference.cache
 C:\GitHub\Migalkov\TestMigalkovApp\obj\Debug\TestMigalkovApp.csproj.CoreCompileInputs.cache
+C:\GitHub\Migalkov\TestMigalkovApp\bin\Debug\HtmlAgilityPack.pdb
+C:\GitHub\Migalkov\TestMigalkovApp\bin\Debug\HtmlAgilityPack.xml
+C:\GitHub\Migalkov\TestMigalkovApp\bin\Debug\MyWikiParser.pdb
+C:\GitHub\Migalkov\TestMigalkovApp\obj\Debug\TestMigalkovApp.exe.config
+C:\GitHub\Migalkov\TestMigalkovApp\obj\Debug\TestMigalkovApp.csproj.CopyComplete
